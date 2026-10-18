@@ -41,4 +41,4 @@
 
 ## Этап 8. Публикация
 - [x] Предупреждение о публичном репозитории, подтверждение
-- [ ] GitHub, Pages, инструкции
+- [x] GitHub, Pages, инструкции — https://arthorias1920-del.github.io/mtg-spravochnik/
