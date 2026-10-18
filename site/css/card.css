@@ -1,0 +1,108 @@
+/* Шрифты хранятся в проекте (site/fonts), из интернета ничего не грузится */
+@font-face { font-family: "PT Serif"; font-weight: 400; font-style: normal; font-display: block;
+  src: url("../fonts/pt-serif-cyrillic-400-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "PT Serif"; font-weight: 400; font-style: normal; font-display: block;
+  src: url("../fonts/pt-serif-latin-400-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "PT Serif"; font-weight: 700; font-style: normal; font-display: block;
+  src: url("../fonts/pt-serif-cyrillic-700-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "PT Serif"; font-weight: 700; font-style: normal; font-display: block;
+  src: url("../fonts/pt-serif-latin-700-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "PT Serif"; font-weight: 400; font-style: italic; font-display: block;
+  src: url("../fonts/pt-serif-cyrillic-400-italic.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "PT Serif"; font-weight: 400; font-style: italic; font-display: block;
+  src: url("../fonts/pt-serif-latin-400-italic.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* ---- Карта ---- */
+.mtg-card {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 744 / 1040;
+  container-type: inline-size;       /* 1cqw = 1% ширины карты */
+  border-radius: 4.7cqw;
+  overflow: hidden;
+  background: #111;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+.mtg-card .card-img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  display: block;
+  pointer-events: none;
+}
+
+/* Плашка: цвет фона взят из картинки (медиана слева и справа) */
+.mtg-card .plate {
+  position: absolute;
+  box-sizing: border-box;
+  background: linear-gradient(90deg, var(--c1), var(--c2));
+  /* Мягкий край, чтобы плашка не выделялась прямоугольником */
+  box-shadow: 0 0 0.25cqw 0.2cqw var(--c1);
+  color: var(--fg);
+  font-family: "PT Serif", Georgia, serif;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.mtg-card .plate .fit { width: 100%; }
+
+/* Название и строка типа — одна строка, жирный шрифт */
+.mtg-card .plate.title,
+.mtg-card .plate.type {
+  border-radius: 1cqw;
+  padding: 0 1.1cqw;
+  font-weight: 700;
+  white-space: nowrap;
+  line-height: 1;
+}
+.mtg-card .plate.title { font-size: calc(var(--fs, 4.9) * 1cqw); }
+.mtg-card .plate.type  { font-size: calc(var(--fs, 4.1) * 1cqw); }
+.mtg-card .plate.title .fit,
+.mtg-card .plate.type .fit { width: max-content; }
+/* Длинная строка типа приключения — в две строки */
+.mtg-card .plate.type.wrap { white-space: normal; line-height: 1.02; }
+.mtg-card .plate.type.wrap .fit { width: 100%; text-wrap: balance; }
+
+/* Текст правил: по центру по вертикали, с переносами слов */
+.mtg-card .plate.text {
+  padding: 0.7cqw 1.3cqw;
+  font-size: calc(var(--fs, 4.2) * 1cqw);
+  line-height: 1.17;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow-wrap: break-word;
+}
+.mtg-card .plate.text p { margin: 0 0 0.32em; }
+.mtg-card .plate.text p:last-child { margin-bottom: 0; }
+.mtg-card .plate.text p.bullet { padding-left: 0.9em; text-indent: -0.9em; margin-bottom: 0.18em; }
+.mtg-card .plate.text p.bullet::before { content: "•"; display: inline-block; width: 0.9em; text-indent: 0; }
+.mtg-card .reminder { font-style: italic; }
+
+/* Текст главы саги лежит на общей плашке, своей плашки нет */
+.mtg-card .plate.bare { background: none; box-shadow: none; }
+/* Разделитель глав саги, как на оригинале */
+.mtg-card .plate.divider::before {
+  content: ""; position: absolute; left: 2%; right: 2%; top: 0;
+  height: 0.3cqw;
+  background: linear-gradient(90deg, transparent, rgba(0,0,0,.28) 15%, rgba(0,0,0,.28) 85%, transparent);
+}
+
+/* Художественный текст: курсив, отделён тонкой чертой, как на оригинале */
+.mtg-card .flavor-bar {
+  border: 0;
+  height: 0.18cqw;
+  margin: 0.45em 3% 0.38em;
+  background: linear-gradient(90deg, transparent, currentColor 12%, currentColor 88%, transparent);
+  opacity: 0.35;
+}
+.mtg-card .flavor p { margin: 0; font-style: italic; }
+.mtg-card .flavor p.attrib { padding-left: 1.2em; }
+
+/* Значки маны внутри текста */
+.mtg-card .sym {
+  height: 0.86em;
+  width: auto;
+  vertical-align: -0.1em;
+  margin: 0 0.02em;
+}

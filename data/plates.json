@@ -1,0 +1,2488 @@
+{
+ "thorin-oakenshield": {
+  "title": {
+   "c1": "#bdaa70",
+   "c2": "#d3ba7a",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c3ae74",
+   "c2": "#c3ae71",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f4f1e9",
+   "fg": "#141210"
+  }
+ },
+ "iron-hills-blacksmith": {
+  "title": {
+   "c1": "#f2f2ed",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f3f4ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f6ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f6ed",
+   "fg": "#141210"
+  }
+ },
+ "bifur-melodic-rider": {
+  "title": {
+   "c1": "#cec8c4",
+   "c2": "#cec7c4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#ccc5c2",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f4f1e9",
+   "fg": "#141210"
+  }
+ },
+ "nori-teller-of-tales": {
+  "title": {
+   "c1": "#cfc9c5",
+   "c2": "#cec8c4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#cdc6c3",
+   "c2": "#cec7c3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f4f1e9",
+   "fg": "#141210"
+  }
+ },
+ "oin-the-brave": {
+  "title": {
+   "c1": "#f1c7b5",
+   "c2": "#f3c8b4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f1c8b6",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "dain-lord-of-the-iron-hills": {
+  "title": {
+   "c1": "#f1f1ec",
+   "c2": "#f0f0e8",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe6",
+   "c2": "#f2f2ec",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f6f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f6f5ed",
+   "fg": "#141210"
+  }
+ },
+ "dwarven-provisioner": {
+  "title": {
+   "c1": "#f2f2eb",
+   "c2": "#f2f2ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f4ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f6f6ee",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f6f6ee",
+   "fg": "#141210"
+  }
+ },
+ "bombur-gentle-dreamer": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f2c9b7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f2c8b4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "ori-keeper-of-songs": {
+  "title": {
+   "c1": "#f2f3ec",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe6",
+   "c2": "#f1f2eb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  }
+ },
+ "iron-hills-stalwart": {
+  "title": {
+   "c1": "#f0c7b6",
+   "c2": "#f3c9b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "bofur-reliable-guardian": {
+  "title": {
+   "c1": "#f1f1eb",
+   "c2": "#f0f0e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f1f2eb",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#aba49b",
+   "c2": "#aea69a",
+   "fg": "#141210"
+  },
+  "advType": {
+   "c1": "#807565",
+   "c2": "#857a68",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#c6c2be",
+   "c2": "#f9f4eb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#bbbab5",
+   "c2": "#ecebe4",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#bbbab5",
+   "c2": "#dad9d2",
+   "fg": "#141210"
+  }
+ },
+ "velvetwing-butterflies": {
+  "title": {
+   "c1": "#f2f1eb",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe5",
+   "c2": "#f3f3ec",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#aba49c",
+   "c2": "#afa79b",
+   "fg": "#141210"
+  },
+  "advType": {
+   "c1": "#807565",
+   "c2": "#867a68",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#c6c2be",
+   "c2": "#f9f4ea",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#bab9b4",
+   "c2": "#ecebe4",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#bab9b4",
+   "c2": "#d9d8d2",
+   "fg": "#141210"
+  }
+ },
+ "old-thrush": {
+  "title": {
+   "c1": "#c0bebe",
+   "c2": "#bdc1c2",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#b9b2b2",
+   "c2": "#beb6b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#b0adad",
+   "c2": "#c6cbd4",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#b0adad",
+   "c2": "#c2c5cd",
+   "fg": "#141210"
+  }
+ },
+ "dwarven-shortsword": {
+  "title": {
+   "c1": "#f2f2ec",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#efeee5",
+   "c2": "#f3f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f3eb",
+   "c2": "#f5f5ec",
+   "fg": "#141210"
+  }
+ },
+ "stone-by-sunlight": {
+  "title": {
+   "c1": "#f1f2ec",
+   "c2": "#f2f2ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe5",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4eb",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  }
+ },
+ "desolation-of-smaug": {
+  "title": {
+   "c1": "#f0c7b6",
+   "c2": "#f2c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cbb9",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textL": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#f1e0d5",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "dwarven-mattock": {
+  "title": {
+   "c1": "#c8d1d6",
+   "c2": "#cdd8dd",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c8d0d5",
+   "c2": "#cad3da",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d2dde1",
+   "c2": "#cfdcdf",
+   "fg": "#141210"
+  }
+ },
+ "thorin-s-last-stand": {
+  "title": {
+   "c1": "#f3f3ec",
+   "c2": "#f5f5f0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f3f4eb",
+   "c2": "#f5f5ec",
+   "fg": "#141210"
+  }
+ },
+ "the-black-arrow": {
+  "title": {
+   "c1": "#c7d0d3",
+   "c2": "#cdd8de",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c7ced3",
+   "c2": "#c8d2d7",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d2dde1",
+   "c2": "#d0dce1",
+   "fg": "#141210"
+  }
+ },
+ "ragged-short-spear": {
+  "title": {
+   "c1": "#f0c6b5",
+   "c2": "#f2c9b4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cab9",
+   "c2": "#f2c8b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "vow-to-erebor": {
+  "title": {
+   "c1": "#f1f2eb",
+   "c2": "#f2f2ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe5",
+   "c2": "#f3f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f3eb",
+   "c2": "#f4f4ec",
+   "fg": "#141210"
+  }
+ },
+ "key-to-the-side-door": {
+  "title": {
+   "c1": "#c8d2d6",
+   "c2": "#cdd8dd",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c7cfd4",
+   "c2": "#cad4db",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d3dde1",
+   "c2": "#d0dce1",
+   "fg": "#141210"
+  }
+ },
+ "moment-of-glory": {
+  "title": {
+   "c1": "#f1f1eb",
+   "c2": "#f0efe6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f3eb",
+   "c2": "#f4f5ec",
+   "fg": "#141210"
+  }
+ },
+ "smaug-s-fury": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f2c9b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f2cab9",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1dfd5",
+   "fg": "#141210"
+  }
+ },
+ "iron-hills": {
+  "title": {
+   "c1": "#cec8c4",
+   "c2": "#cdc7c2",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#cdc7c3",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#ea9f86",
+   "c2": "#f5e8ba",
+   "fg": "#141210"
+  }
+ },
+ "bard-the-bowman": {
+  "title": {
+   "c1": "#baa970",
+   "c2": "#d5bd7e",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c2af74",
+   "c2": "#c4af72",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#e0ecf2",
+   "fg": "#141210"
+  }
+ },
+ "lake-town-mariners": {
+  "title": {
+   "c1": "#a8cce0",
+   "c2": "#b6d8e7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcee2",
+   "c2": "#afd2e4",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#0580a7",
+   "c2": "#0986af",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#006080",
+   "c2": "#00688c",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#9ab4c1",
+   "c2": "#d0e5f1",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#a6b1b9",
+   "c2": "#d3e1ea",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#a6b1b9",
+   "c2": "#c2cfd8",
+   "fg": "#141210"
+  }
+ },
+ "gandalf-wandering-wizard": {
+  "title": {
+   "c1": "#a9ccdf",
+   "c2": "#b3d1e3",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcce0",
+   "c2": "#b0d0e2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f2",
+   "c2": "#ddeaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dce9f2",
+   "c2": "#ddeaf3",
+   "fg": "#141210"
+  }
+ },
+ "esgaroth-garrison": {
+  "title": {
+   "c1": "#f1f2eb",
+   "c2": "#f2f2ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f3f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  }
+ },
+ "ravenhill-flock": {
+  "title": {
+   "c1": "#a9cce1",
+   "c2": "#b7d4e8",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#aacde2",
+   "c2": "#b1d2e6",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f4",
+   "c2": "#dbe9f5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dce9f4",
+   "c2": "#dbe9f5",
+   "fg": "#141210"
+  }
+ },
+ "long-lake-nuisance": {
+  "title": {
+   "c1": "#a8cce0",
+   "c2": "#b5d5e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcde1",
+   "c2": "#afd2e4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dde9f2",
+   "c2": "#dce9f3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dde9f2",
+   "c2": "#dce9f3",
+   "fg": "#141210"
+  }
+ },
+ "lake-town-toymaker": {
+  "title": {
+   "c1": "#f2f2ec",
+   "c2": "#f2f2ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe6",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ec",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ec",
+   "fg": "#141210"
+  }
+ },
+ "elvenking-s-harper": {
+  "title": {
+   "c1": "#aaccdf",
+   "c2": "#b5d6e7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#a9cde1",
+   "c2": "#b0d1e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f1",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dce9f1",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "bilbo-baggins-burglar": {
+  "title": {
+   "c1": "#a8cbde",
+   "c2": "#b3d5e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#aacde0",
+   "c2": "#b1cfe3",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#0681a9",
+   "c2": "#0a87b1",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#005f81",
+   "c2": "#006889",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#9bb6c4",
+   "c2": "#d0e6f1",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#a6b2b9",
+   "c2": "#d3e1ea",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#a6b2b9",
+   "c2": "#c2cfd8",
+   "fg": "#141210"
+  }
+ },
+ "patient-instructor": {
+  "title": {
+   "c1": "#cec9c5",
+   "c2": "#cfc7c3",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#ccc6c3",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#e0ecf2",
+   "fg": "#141210"
+  }
+ },
+ "lakeshore-apothecary": {
+  "title": {
+   "c1": "#a9cce0",
+   "c2": "#b5d6e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcde1",
+   "c2": "#b1d3e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f1",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dce9f1",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "master-s-councillors": {
+  "title": {
+   "c1": "#aaccdf",
+   "c2": "#b5d5e7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#aacee2",
+   "c2": "#b0d2e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f2",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#dce9f2",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "lake-town-lookout": {
+  "title": {
+   "c1": "#f1f2ec",
+   "c2": "#f0efe6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f4ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f4ec",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f4ec",
+   "fg": "#141210"
+  }
+ },
+ "the-eagles-are-coming": {
+  "title": {
+   "c1": "#f2f2ec",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe6",
+   "c2": "#f3f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textL": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f4ec",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#f5f5ed",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ed",
+   "fg": "#141210"
+  }
+ },
+ "the-mountain-king-s-return": {
+  "title": {
+   "c1": "#f1f2ec",
+   "c2": "#f1f1e8",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "reminder": {
+   "c1": "#fefefb",
+   "c2": "#faf9f5",
+   "fg": "#141210"
+  },
+  "chapters": {
+   "c1": "#fcfaf6",
+   "c2": "#fcfaf6",
+   "fg": "#141210"
+  },
+  "ch0": {
+   "c1": "#fcfaf6",
+   "c2": "#fcfaf6",
+   "fg": "#141210"
+  },
+  "ch1": {
+   "c1": "#fcfaf6",
+   "c2": "#fcfaf6",
+   "fg": "#141210"
+  },
+  "ch2": {
+   "c1": "#fcfaf6",
+   "c2": "#fcfaf6",
+   "fg": "#141210"
+  }
+ },
+ "settle-the-wreckage": {
+  "title": {
+   "c1": "#f2f2ec",
+   "c2": "#f5f5f0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f3f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f5ec",
+   "fg": "#141210"
+  },
+  "textL": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f4ec",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#f4f5ec",
+   "c2": "#f4f5ec",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#f4f4ec",
+   "c2": "#f4f5ec",
+   "fg": "#141210"
+  }
+ },
+ "magnificent-end": {
+  "title": {
+   "c1": "#f1f2eb",
+   "c2": "#f2f3ea",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe5",
+   "c2": "#f2f3ed",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f4f4ec",
+   "c2": "#f5f5ec",
+   "fg": "#141210"
+  }
+ },
+ "confusticate-and-bebother": {
+  "title": {
+   "c1": "#a9ccdf",
+   "c2": "#b1d1e3",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#accee3",
+   "c2": "#b0d2e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#ddeaf2",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "uneasy-partings": {
+  "title": {
+   "c1": "#aacce0",
+   "c2": "#b5d6e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcee3",
+   "c2": "#b1d2e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dde9f2",
+   "c2": "#dce9f3",
+   "fg": "#141210"
+  }
+ },
+ "an-unexpected-party": {
+  "title": {
+   "c1": "#f2f2ec",
+   "c2": "#f5f5f0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0efe7",
+   "c2": "#f2f4ec",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#aaa499",
+   "c2": "#b1a99d",
+   "fg": "#141210"
+  },
+  "advType": {
+   "c1": "#7f7564",
+   "c2": "#857a69",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#c7c3be",
+   "c2": "#f9f4eb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#bcbbb6",
+   "c2": "#ecebe3",
+   "fg": "#141210"
+  },
+  "advTextL": {
+   "c1": "#c7c3be",
+   "c2": "#f2ede5",
+   "fg": "#141210"
+  },
+  "advTextM": {
+   "c1": "#f2ede5",
+   "c2": "#f9f4eb",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#c3c2bd",
+   "c2": "#ecebe3",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#bcbbb6",
+   "c2": "#c3c2bd",
+   "fg": "#141210"
+  }
+ },
+ "enchanted-river-s-grasp": {
+  "title": {
+   "c1": "#a9cce0",
+   "c2": "#b4d4e5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#aacee0",
+   "c2": "#b2d2e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#ddeaf3",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "sound-the-trumpets": {
+  "title": {
+   "c1": "#a8cce0",
+   "c2": "#b6d7e7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#abcee2",
+   "c2": "#b1d3e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f2",
+   "c2": "#dceaf3",
+   "fg": "#141210"
+  }
+ },
+ "giant-s-boulder": {
+  "title": {
+   "c1": "#c8d1d5",
+   "c2": "#cdd8dd",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c8d0d4",
+   "c2": "#c9d3da",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d2dde1",
+   "c2": "#d0dce0",
+   "fg": "#141210"
+  }
+ },
+ "smaug-the-magnificent": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f2c8b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0caba",
+   "c2": "#f2c8b4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f2e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f2e0d6",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#f2e0d6",
+   "c2": "#f2e0d6",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#f1e0d6",
+   "c2": "#f2e0d6",
+   "fg": "#141210"
+  }
+ },
+ "smaug-wicked-worm": {
+  "title": {
+   "c1": "#b9a770",
+   "c2": "#d5bd7e",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c3ae74",
+   "c2": "#c7b071",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#efe1d9",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#e8e8e6",
+   "c2": "#ece5df",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#ede3dd",
+   "c2": "#efe1d9",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#ece5df",
+   "c2": "#ede3dd",
+   "fg": "#141210"
+  }
+ },
+ "smaug-the-great-calamity": {
+  "title": {
+   "c1": "#f0c7b6",
+   "c2": "#f1c9b7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cbba",
+   "c2": "#f2c8b3",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#9c4c37",
+   "c2": "#a7513b",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#812718",
+   "c2": "#882d1f",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#bea398",
+   "c2": "#f0d4c8",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#b6aaa4",
+   "c2": "#e8d7cd",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#b6aaa4",
+   "c2": "#d5c6be",
+   "fg": "#141210"
+  }
+ },
+ "gandalf-spark-starter": {
+  "title": {
+   "c1": "#f0c7b7",
+   "c2": "#f2c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f1c8b4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "desert-were-worm": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f2c9b7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#f0e0d6",
+   "c2": "#f0e0d6",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#f1e0d5",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "bothersome-noisemaker": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f1c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0cab9",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f0dfd6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f0dfd6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "goblin-town-flunkies": {
+  "title": {
+   "c1": "#f0c7b7",
+   "c2": "#f2c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0caba",
+   "c2": "#f2c8b4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "dwarven-mauler": {
+  "title": {
+   "c1": "#f1c7b5",
+   "c2": "#f3c8b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1caba",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "nighthowl-pursuer": {
+  "title": {
+   "c1": "#b6b0b0",
+   "c2": "#bab4b3",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "ravening-warg": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c2bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "front-porch-sentries": {
+  "title": {
+   "c1": "#b8b1b1",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c1b9b9",
+   "c2": "#c3bbbb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "dori-bearer-of-friends": {
+  "title": {
+   "c1": "#f1c7b6",
+   "c2": "#f2c9b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0caba",
+   "c2": "#f1c8b7",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "gloin-the-mighty": {
+  "title": {
+   "c1": "#f0c8b7",
+   "c2": "#f2c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0cab9",
+   "c2": "#f1c8b5",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#9c4c37",
+   "c2": "#a6513b",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#802717",
+   "c2": "#892e1f",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#bda398",
+   "c2": "#f1d5c8",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#beb1aa",
+   "c2": "#e8d7cd",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#beb1aa",
+   "c2": "#d8c9c0",
+   "fg": "#141210"
+  }
+ },
+ "head-of-the-hunt": {
+  "title": {
+   "c1": "#b7b1b1",
+   "c2": "#b5aeae",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "gundabad-opportunist": {
+  "title": {
+   "c1": "#f0c7b6",
+   "c2": "#f2c9b7",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cab9",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f1e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "misty-mountains-raider": {
+  "title": {
+   "c1": "#efc7b5",
+   "c2": "#f3c8b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f0caba",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "dreaded-bat-cloud": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "the-great-goblin": {
+  "title": {
+   "c1": "#cec9c5",
+   "c2": "#cdc8c4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#ccc5c2",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e9e8e6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#e9e8e6",
+   "c2": "#f0e1d9",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#e9e8e6",
+   "c2": "#ece5df",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#eee3dd",
+   "c2": "#f0e1d9",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#ece5df",
+   "c2": "#eee3dd",
+   "fg": "#141210"
+  }
+ },
+ "gollum-silent-slinker": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bfb9b9",
+   "c2": "#c1b9b9",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#666264",
+   "c2": "#6a6566",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#342d2f",
+   "c2": "#373031",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#a5a3a1",
+   "c2": "#cecac7",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#acacac",
+   "c2": "#dedfdc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#acacac",
+   "c2": "#cbccca",
+   "fg": "#141210"
+  }
+ },
+ "the-misty-mountains-cold": {
+  "title": {
+   "c1": "#f0c7b6",
+   "c2": "#f1c9b4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f2cab9",
+   "c2": "#f2c8b4",
+   "fg": "#141210"
+  },
+  "reminder": {
+   "c1": "#f9efeb",
+   "c2": "#f9f0eb",
+   "fg": "#141210"
+  },
+  "chapters": {
+   "c1": "#f9f0eb",
+   "c2": "#f9f0eb",
+   "fg": "#141210"
+  },
+  "ch0": {
+   "c1": "#f9f0eb",
+   "c2": "#f9f0eb",
+   "fg": "#141210"
+  }
+ },
+ "goblin-plate-mail": {
+  "title": {
+   "c1": "#cec9c5",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#ccc6c3",
+   "c2": "#cdc7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "tidings-of-war": {
+  "title": {
+   "c1": "#f0c7b5",
+   "c2": "#f2c9b5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cab8",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f0e0d6",
+   "c2": "#f1e0d6",
+   "fg": "#141210"
+  }
+ },
+ "rage-into-the-valley": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c1b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "gathering-of-darkness": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e9e8e6",
+   "fg": "#141210"
+  }
+ },
+ "reverent-howl": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "bilbo-s-deadly-slice": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b5aeae",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c2bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "along-the-crooked-way": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bfb9b9",
+   "c2": "#c3bbbb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textL": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "pinecone-strike": {
+  "title": {
+   "c1": "#f1c7b5",
+   "c2": "#f2c9b6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#f1cab8",
+   "c2": "#f2c7b3",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#f1dfd6",
+   "c2": "#f1e0d5",
+   "fg": "#141210"
+  }
+ },
+ "gnashing-of-teeth": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b5aeae",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbbb",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e9e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "crude-bent-blade": {
+  "title": {
+   "c1": "#b8b1b1",
+   "c2": "#b7b0b0",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#e8e8e6",
+   "c2": "#e8e8e6",
+   "fg": "#141210"
+  }
+ },
+ "down-down-to-goblin-town": {
+  "title": {
+   "c1": "#b7b0b0",
+   "c2": "#b7b1b1",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c0b9b9",
+   "c2": "#c3bbba",
+   "fg": "#141210"
+  },
+  "reminder": {
+   "c1": "#f5f4f3",
+   "c2": "#f5f5f5",
+   "fg": "#141210"
+  },
+  "chapters": {
+   "c1": "#f5f5f3",
+   "c2": "#f5f5f5",
+   "fg": "#141210"
+  },
+  "ch0": {
+   "c1": "#f5f5f3",
+   "c2": "#f5f5f5",
+   "fg": "#141210"
+  },
+  "ch1": {
+   "c1": "#f5f5f3",
+   "c2": "#f5f5f5",
+   "fg": "#141210"
+  },
+  "ch2": {
+   "c1": "#f5f5f3",
+   "c2": "#f5f5f5",
+   "fg": "#141210"
+  }
+ },
+ "goblin-town": {
+  "title": {
+   "c1": "#cec9c5",
+   "c2": "#cdc6c1",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#cdc7c2",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#a39c9c",
+   "c2": "#ea9e84",
+   "fg": "#141210"
+  }
+ },
+ "thranduil-sindarin-liege": {
+  "title": {
+   "c1": "#cfc8c5",
+   "c2": "#cec8c4",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#ccc6c2",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#a29d9a",
+   "c2": "#aca39e",
+   "fg": "#141210"
+  },
+  "advType": {
+   "c1": "#7e716a",
+   "c2": "#82756f",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#c4c1c0",
+   "c2": "#f7f2ef",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#a9b1ad",
+   "c2": "#d3e1ea",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#a9b1ad",
+   "c2": "#c3cfd3",
+   "fg": "#141210"
+  }
+ },
+ "mirkwood-pathmaker": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bccdc5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "thranduil-s-company": {
+  "title": {
+   "c1": "#b9a976",
+   "c2": "#d5bd80",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c3b079",
+   "c2": "#c8b076",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#deebf5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d5e4dc",
+   "c2": "#dceaf0",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#d5e4dc",
+   "c2": "#d9e7e7",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#dae8eb",
+   "c2": "#dceaf0",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#d9e7e7",
+   "c2": "#dae8eb",
+   "fg": "#141210"
+  }
+ },
+ "woodland-weavemaster": {
+  "title": {
+   "c1": "#bcccc4",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bccdc5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "wood-elves": {
+  "title": {
+   "c1": "#bccec5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc4",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "guardian-of-the-halls": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  }
+ },
+ "galion-elvenking-s-butler": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bccfc5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bccdc5",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  }
+ },
+ "silvan-reveler": {
+  "title": {
+   "c1": "#bbaa76",
+   "c2": "#d5bd81",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#c2b079",
+   "c2": "#c8b176",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#ddeaf5",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d5e4dc",
+   "c2": "#dce9f0",
+   "fg": "#141210"
+  }
+ },
+ "cantankerous-keepers": {
+  "title": {
+   "c1": "#bccec4",
+   "c2": "#bbd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#d5e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "boughside-wanderers": {
+  "title": {
+   "c1": "#bccdc4",
+   "c2": "#bccfc5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  }
+ },
+ "bejeweled-warg": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc4",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#d6e5dc",
+   "c2": "#d6e5dc",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#d5e6dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  }
+ },
+ "wargling": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bccdc5",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "attercop": {
+  "title": {
+   "c1": "#bdcec5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc4",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "beorn-reluctant-host": {
+  "title": {
+   "c1": "#bdcec6",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#bacdc4",
+   "fg": "#141210"
+  },
+  "advTitle": {
+   "c1": "#3b653e",
+   "c2": "#32603a",
+   "fg": "#ffffff"
+  },
+  "advType": {
+   "c1": "#003919",
+   "c2": "#013b1b",
+   "fg": "#ffffff"
+  },
+  "advText": {
+   "c1": "#a4aca6",
+   "c2": "#d7dcd7",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#95a197",
+   "c2": "#ccddd3",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#95a197",
+   "c2": "#b7c6bc",
+   "fg": "#141210"
+  }
+ },
+ "old-fat-spider": {
+  "title": {
+   "c1": "#bccec5",
+   "c2": "#bccfc6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#bacec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d6e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  }
+ },
+ "gigantic-big-bear": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bccfc6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc4",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStrip": {
+   "c1": "#d5e4dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripL": {
+   "c1": "#d5e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textStripR": {
+   "c1": "#d5e5dc",
+   "c2": "#d5e6dc",
+   "fg": "#141210"
+  },
+  "textStripM": {
+   "c1": "#d5e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "beorn-s-hospitality": {
+  "title": {
+   "c1": "#bccec5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc4",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "warg-tactics": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bbd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcec5",
+   "c2": "#b9cec4",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "plunder-the-trollshaws": {
+  "title": {
+   "c1": "#a9cce0",
+   "c2": "#b5d6e6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#aacee2",
+   "c2": "#b0d2e5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#dce9f2",
+   "c2": "#dce9f3",
+   "fg": "#141210"
+  }
+ },
+ "quarrel": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bcd0c6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcec5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#d4e5dc",
+   "fg": "#141210"
+  }
+ },
+ "troll-negotiations": {
+  "title": {
+   "c1": "#bccdc5",
+   "c2": "#bbcfc6",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bccec5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d5e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "through-the-forest-gate": {
+  "title": {
+   "c1": "#bccdc4",
+   "c2": "#bbcfc5",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#bbcdc5",
+   "c2": "#b9cec5",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textL": {
+   "c1": "#d6e4dc",
+   "c2": "#d6e4dc",
+   "fg": "#141210"
+  },
+  "textR": {
+   "c1": "#d5e5dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  },
+  "textM": {
+   "c1": "#d6e4dc",
+   "c2": "#d5e5dc",
+   "fg": "#141210"
+  }
+ },
+ "elvenking-s-halls": {
+  "title": {
+   "c1": "#cfc8c5",
+   "c2": "#cec6c2",
+   "fg": "#141210"
+  },
+  "type": {
+   "c1": "#cdc7c2",
+   "c2": "#cec7c2",
+   "fg": "#141210"
+  },
+  "text": {
+   "c1": "#b7d7c3",
+   "c2": "#aacce7",
+   "fg": "#141210"
+  }
+ }
+}

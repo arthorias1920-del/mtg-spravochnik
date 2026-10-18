@@ -1,0 +1,675 @@
+{
+  "query": "!\"An Unexpected Party\"",
+  "data": [
+    {
+      "object": "card",
+      "id": "e09331ae-7546-468a-8d26-bd7016549e33",
+      "oracle_id": "6e2a8632-7ab0-408a-b11b-eb062337a8d4",
+      "multiverse_ids": [],
+      "name": "An Unexpected Party // An Unexpected Party",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/e09331ae-7546-468a-8d26-bd7016549e33",
+      "scryfall_uri": "https://scryfall.com/card/ahob/6/an-unexpected-party-an-unexpected-party?utm_source=api",
+      "layout": "art_series",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-10-18T00:05:10Z",
+      "cmc": 0,
+      "type_line": "Card // Card",
+      "color_identity": [],
+      "keywords": [],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "An Unexpected Party",
+          "mana_cost": "",
+          "type_line": "Card",
+          "oracle_text": "",
+          "colors": [],
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+          "image_uris": {
+            "small": "https://cards.scryfall.io/small/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "normal": "https://cards.scryfall.io/normal/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "large": "https://cards.scryfall.io/large/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "png": "https://cards.scryfall.io/png/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.png?1792281910",
+            "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "thumb": "https://cards.scryfall.io/thumb/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "grid": "https://cards.scryfall.io/grid/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "display": "https://cards.scryfall.io/display/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "art": "https://cards.scryfall.io/art/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "crop": "https://cards.scryfall.io/crop/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "jpeg": "https://cards.scryfall.io/normal/front/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910"
+          }
+        },
+        {
+          "object": "card_face",
+          "name": "An Unexpected Party",
+          "mana_cost": "",
+          "type_line": "Card",
+          "oracle_text": "",
+          "colors": [],
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+          "image_uris": {
+            "small": "https://cards.scryfall.io/small/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "normal": "https://cards.scryfall.io/normal/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "large": "https://cards.scryfall.io/large/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "png": "https://cards.scryfall.io/png/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.png?1792281910",
+            "art_crop": "https://cards.scryfall.io/art_crop/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "border_crop": "https://cards.scryfall.io/border_crop/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910",
+            "thumb": "https://cards.scryfall.io/thumb/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "grid": "https://cards.scryfall.io/grid/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "display": "https://cards.scryfall.io/display/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "art": "https://cards.scryfall.io/art/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "crop": "https://cards.scryfall.io/crop/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.webp?1792281910",
+            "jpeg": "https://cards.scryfall.io/normal/back/e/0/e09331ae-7546-468a-8d26-bd7016549e33.jpg?1792281910"
+          }
+        }
+      ],
+      "legalities": {
+        "standard": "not_legal",
+        "future": "not_legal",
+        "historic": "not_legal",
+        "timeless": "not_legal",
+        "gladiator": "not_legal",
+        "pioneer": "not_legal",
+        "modern": "not_legal",
+        "legacy": "not_legal",
+        "pauper": "not_legal",
+        "vintage": "not_legal",
+        "penny": "not_legal",
+        "commander": "not_legal",
+        "oathbreaker": "not_legal",
+        "standardbrawl": "not_legal",
+        "brawl": "not_legal",
+        "competitivebrawl": "not_legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "not_legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "f449a616-4c8b-48b5-9b0e-70a58fd1bf3b",
+      "set": "ahob",
+      "set_name": "The Hobbit Art Series",
+      "set_type": "memorabilia",
+      "set_uri": "https://api.scryfall.com/sets/f449a616-4c8b-48b5-9b0e-70a58fd1bf3b",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/ahob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e09331ae-7546-468a-8d26-bd7016549e33/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e2a8632-7ab0-408a-b11b-eb062337a8d4&unique=prints",
+      "collector_number": "6",
+      "digital": false,
+      "rarity": "common",
+      "artist": "Matt Stewart",
+      "artist_ids": [
+        "20871267-2d8a-41d5-b03a-be3d557c5734"
+      ],
+      "border_color": "borderless",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "prices": {
+        "usd": null,
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": null,
+        "eur_foil": null,
+        "tix": null
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAn%2BUnexpected%2BParty",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAn%2BUnexpected%2BParty",
+        "edhrec": "https://edhrec.com/route/?cc=An+Unexpected+Party"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%26view%3Dgrid",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=An+Unexpected+Party&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=An+Unexpected+Party&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "3aa29fe8-1687-486f-b4df-c04977869ab1",
+      "oracle_id": "38503d34-f4f9-4eeb-9b1e-4fec1df921b3",
+      "multiverse_ids": [],
+      "resource_id": "AB6516A9423BCC355B6A74C2655893B933AAB551BDBAA286E5F71F7231AE7B9D",
+      "mtgo_id": 153972,
+      "arena_id": 103397,
+      "tcgplayer_id": 692999,
+      "cardmarket_id": 898484,
+      "name": "An Unexpected Party // At the Door",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/3aa29fe8-1687-486f-b4df-c04977869ab1",
+      "scryfall_uri": "https://scryfall.com/card/hob/29/an-unexpected-party-at-the-door?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-13T00:33:07Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+        "normal": "https://cards.scryfall.io/normal/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+        "large": "https://cards.scryfall.io/large/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+        "png": "https://cards.scryfall.io/png/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.png?1783902787",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787",
+        "thumb": "https://cards.scryfall.io/thumb/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.webp?1783902787",
+        "grid": "https://cards.scryfall.io/grid/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.webp?1783902787",
+        "display": "https://cards.scryfall.io/display/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.webp?1783902787",
+        "art": "https://cards.scryfall.io/art/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.webp?1783902787",
+        "crop": "https://cards.scryfall.io/crop/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.webp?1783902787",
+        "jpeg": "https://cards.scryfall.io/normal/front/3/a/3aa29fe8-1687-486f-b4df-c04977869ab1.jpg?1783902787"
+      },
+      "mana_cost": "{2}{W}{W} // {X}{2}{W}",
+      "cmc": 4,
+      "type_line": "Enchantment // Sorcery — Adventure",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "An Unexpected Party",
+          "mana_cost": "{2}{W}{W}",
+          "type_line": "Enchantment",
+          "oracle_text": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2.",
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+          "illustration_id": "ed6b0bc0-b0b4-45fc-a812-9f17cf391007"
+        },
+        {
+          "object": "card_face",
+          "name": "At the Door",
+          "mana_cost": "{X}{2}{W}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)",
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734"
+        }
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "f75207fd-89d2-417b-8f36-4ea96b4e3794",
+          "component": "combo_piece",
+          "name": "An Unexpected Party // At the Door",
+          "type_line": "Enchantment // Sorcery — Adventure",
+          "uri": "https://api.scryfall.com/cards/f75207fd-89d2-417b-8f36-4ea96b4e3794"
+        },
+        {
+          "object": "related_card",
+          "id": "9fcb3a3f-c0d4-43d4-8549-826a38bfa27d",
+          "component": "token",
+          "name": "Dwarf",
+          "type_line": "Token Creature — Dwarf",
+          "uri": "https://api.scryfall.com/cards/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/3aa29fe8-1687-486f-b4df-c04977869ab1/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38503d34-f4f9-4eeb-9b1e-4fec1df921b3&unique=prints",
+      "collector_number": "29",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Matt Stewart",
+      "artist_ids": [
+        "20871267-2d8a-41d5-b03a-be3d557c5734"
+      ],
+      "illustration_id": "ed6b0bc0-b0b4-45fc-a812-9f17cf391007",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "enchantment"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 9435,
+      "prices": {
+        "usd": "0.27",
+        "usd_foil": "0.35",
+        "usd_etched": null,
+        "eur": "0.21",
+        "eur_foil": "0.31",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "edhrec": "https://edhrec.com/route/?cc=An+Unexpected+Party"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F692999%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=898484&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/153972?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "262d6907-f598-433a-8a11-cb8fd96a4adf",
+      "oracle_id": "38503d34-f4f9-4eeb-9b1e-4fec1df921b3",
+      "multiverse_ids": [],
+      "tcgplayer_id": 693059,
+      "cardmarket_id": 903193,
+      "name": "An Unexpected Party // At the Door",
+      "lang": "en",
+      "released_at": "2026-09-04",
+      "uri": "https://api.scryfall.com/cards/262d6907-f598-433a-8a11-cb8fd96a4adf",
+      "scryfall_uri": "https://scryfall.com/card/pw26/14/an-unexpected-party-at-the-door?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-08-18T05:47:09Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029",
+        "normal": "https://cards.scryfall.io/normal/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029",
+        "large": "https://cards.scryfall.io/large/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029",
+        "png": "https://cards.scryfall.io/png/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.png?1787032029",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029",
+        "thumb": "https://cards.scryfall.io/thumb/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.webp?1787032029",
+        "grid": "https://cards.scryfall.io/grid/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.webp?1787032029",
+        "display": "https://cards.scryfall.io/display/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.webp?1787032029",
+        "art": "https://cards.scryfall.io/art/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.webp?1787032029",
+        "crop": "https://cards.scryfall.io/crop/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.webp?1787032029",
+        "jpeg": "https://cards.scryfall.io/normal/front/2/6/262d6907-f598-433a-8a11-cb8fd96a4adf.jpg?1787032029"
+      },
+      "mana_cost": "{2}{W}{W} // {X}{2}{W}",
+      "cmc": 4,
+      "type_line": "Enchantment // Sorcery — Adventure",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "An Unexpected Party",
+          "mana_cost": "{2}{W}{W}",
+          "type_line": "Enchantment",
+          "oracle_text": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2.",
+          "artist": "Tomas Duchek",
+          "artist_id": "ceb3ce65-efa6-4bcc-b2a3-33e83a047528",
+          "illustration_id": "0913e386-11af-4cb3-88db-29e6882008b0"
+        },
+        {
+          "object": "card_face",
+          "name": "At the Door",
+          "mana_cost": "{X}{2}{W}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)",
+          "artist": "Tomas Duchek",
+          "artist_id": "ceb3ce65-efa6-4bcc-b2a3-33e83a047528"
+        }
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "262d6907-f598-433a-8a11-cb8fd96a4adf",
+          "component": "combo_piece",
+          "name": "An Unexpected Party // At the Door",
+          "type_line": "Enchantment // Sorcery — Adventure",
+          "uri": "https://api.scryfall.com/cards/262d6907-f598-433a-8a11-cb8fd96a4adf"
+        },
+        {
+          "object": "related_card",
+          "id": "9fcb3a3f-c0d4-43d4-8549-826a38bfa27d",
+          "component": "token",
+          "name": "Dwarf",
+          "type_line": "Token Creature — Dwarf",
+          "uri": "https://api.scryfall.com/cards/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": true,
+      "reprint": true,
+      "variation": false,
+      "set_id": "6e547347-15c9-4756-b176-74ed3cd18fb2",
+      "set": "pw26",
+      "set_name": "Wizards Play Network 2026",
+      "set_type": "promo",
+      "set_uri": "https://api.scryfall.com/sets/6e547347-15c9-4756-b176-74ed3cd18fb2",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apw26&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/pw26?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/262d6907-f598-433a-8a11-cb8fd96a4adf/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38503d34-f4f9-4eeb-9b1e-4fec1df921b3&unique=prints",
+      "collector_number": "14",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Tomas Duchek",
+      "artist_ids": [
+        "ceb3ce65-efa6-4bcc-b2a3-33e83a047528"
+      ],
+      "illustration_id": "0913e386-11af-4cb3-88db-29e6882008b0",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "enchantment",
+        "extendedart"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "wizardsplaynetwork",
+        "universesbeyond"
+      ],
+      "edhrec_rank": 9435,
+      "prices": {
+        "usd": "0.86",
+        "usd_foil": "5.08",
+        "usd_etched": null,
+        "eur": "0.53",
+        "eur_foil": "0.02",
+        "tix": null
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "edhrec": "https://edhrec.com/route/?cc=An+Unexpected+Party"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F693059%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=903193&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=An+Unexpected+Party&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "f75207fd-89d2-417b-8f36-4ea96b4e3794",
+      "oracle_id": "38503d34-f4f9-4eeb-9b1e-4fec1df921b3",
+      "multiverse_ids": [],
+      "resource_id": "C8498654120C3659CF2957A9C6D18E113E7A03FF799C9AFBE54DC4379B9A875B",
+      "mtgo_id": 154384,
+      "tcgplayer_id": 693028,
+      "cardmarket_id": 898569,
+      "name": "An Unexpected Party // At the Door",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/f75207fd-89d2-417b-8f36-4ea96b4e3794",
+      "scryfall_uri": "https://scryfall.com/card/hob/289/an-unexpected-party-at-the-door?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-08-20T05:06:19Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
+        "normal": "https://cards.scryfall.io/normal/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
+        "large": "https://cards.scryfall.io/large/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
+        "png": "https://cards.scryfall.io/png/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.png?1787202379",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379",
+        "thumb": "https://cards.scryfall.io/thumb/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.webp?1787202379",
+        "grid": "https://cards.scryfall.io/grid/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.webp?1787202379",
+        "display": "https://cards.scryfall.io/display/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.webp?1787202379",
+        "art": "https://cards.scryfall.io/art/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.webp?1787202379",
+        "crop": "https://cards.scryfall.io/crop/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.webp?1787202379",
+        "jpeg": "https://cards.scryfall.io/normal/front/f/7/f75207fd-89d2-417b-8f36-4ea96b4e3794.jpg?1787202379"
+      },
+      "mana_cost": "{2}{W}{W} // {X}{2}{W}",
+      "cmc": 4,
+      "type_line": "Enchantment // Sorcery — Adventure",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "An Unexpected Party",
+          "mana_cost": "{2}{W}{W}",
+          "type_line": "Enchantment",
+          "oracle_text": "As this enchantment enters, choose a creature type.\nCreatures you control of the chosen type get +2/+2.",
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734",
+          "illustration_id": "ed6b0bc0-b0b4-45fc-a812-9f17cf391007"
+        },
+        {
+          "object": "card_face",
+          "name": "At the Door",
+          "mana_cost": "{X}{2}{W}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Create X 2/2 red Dwarf creature tokens. (Then exile this card. You may cast the enchantment later from exile.)",
+          "artist": "Matt Stewart",
+          "artist_id": "20871267-2d8a-41d5-b03a-be3d557c5734"
+        }
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "f75207fd-89d2-417b-8f36-4ea96b4e3794",
+          "component": "combo_piece",
+          "name": "An Unexpected Party // At the Door",
+          "type_line": "Enchantment // Sorcery — Adventure",
+          "uri": "https://api.scryfall.com/cards/f75207fd-89d2-417b-8f36-4ea96b4e3794"
+        },
+        {
+          "object": "related_card",
+          "id": "9fcb3a3f-c0d4-43d4-8549-826a38bfa27d",
+          "component": "token",
+          "name": "Dwarf",
+          "type_line": "Token Creature — Dwarf",
+          "uri": "https://api.scryfall.com/cards/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/f75207fd-89d2-417b-8f36-4ea96b4e3794/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38503d34-f4f9-4eeb-9b1e-4fec1df921b3&unique=prints",
+      "collector_number": "289",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Matt Stewart",
+      "artist_ids": [
+        "20871267-2d8a-41d5-b03a-be3d557c5734"
+      ],
+      "illustration_id": "ed6b0bc0-b0b4-45fc-a812-9f17cf391007",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "enchantment",
+        "extendedart"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 9435,
+      "prices": {
+        "usd": "0.77",
+        "usd_foil": "0.85",
+        "usd_etched": null,
+        "eur": "0.69",
+        "eur_foil": "0.93",
+        "tix": "0.05"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAn%2BUnexpected%2BParty%2B%252F%252F%2BAt%2Bthe%2BDoor",
+        "edhrec": "https://edhrec.com/route/?cc=An+Unexpected+Party"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F693028%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=898569&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154384?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

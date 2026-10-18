@@ -1,0 +1,499 @@
+{
+  "query": "!\"Glóin the Mighty\"",
+  "data": [
+    {
+      "object": "card",
+      "id": "5793b8eb-2fc5-454d-8fa2-20346fef167a",
+      "oracle_id": "6505a53b-00db-44c4-8eaa-09a1a01451a4",
+      "multiverse_ids": [],
+      "resource_id": "AF9EDFA0AD0F70122951F4B15D0442888AFD76F3F6AE2E9C6D7CEFA35917E871",
+      "mtgo_id": 154130,
+      "arena_id": 103476,
+      "tcgplayer_id": 708795,
+      "cardmarket_id": 900326,
+      "name": "Glóin the Mighty // Easy Pickings",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/5793b8eb-2fc5-454d-8fa2-20346fef167a",
+      "scryfall_uri": "https://scryfall.com/card/hob/99/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-29T11:29:05Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+        "normal": "https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+        "large": "https://cards.scryfall.io/large/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+        "png": "https://cards.scryfall.io/png/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.png?1785324545",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545",
+        "thumb": "https://cards.scryfall.io/thumb/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.webp?1785324545",
+        "grid": "https://cards.scryfall.io/grid/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.webp?1785324545",
+        "display": "https://cards.scryfall.io/display/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.webp?1785324545",
+        "art": "https://cards.scryfall.io/art/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.webp?1785324545",
+        "crop": "https://cards.scryfall.io/crop/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.webp?1785324545",
+        "jpeg": "https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545"
+      },
+      "mana_cost": "{3}{R} // {2}{R}",
+      "cmc": 4,
+      "type_line": "Legendary Creature — Dwarf Warrior // Sorcery — Adventure",
+      "power": "4",
+      "toughness": "3",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "R"
+      ],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "Glóin the Mighty",
+          "mana_cost": "{3}{R}",
+          "type_line": "Legendary Creature — Dwarf Warrior",
+          "oracle_text": "At the beginning of your first main phase, add {R}{R}.",
+          "power": "4",
+          "toughness": "3",
+          "artist": "Colin Boyer",
+          "artist_id": "9c201dbe-db56-429a-87e6-189ea70c2632",
+          "illustration_id": "2dc7b931-b20e-4561-9021-8a6c3cf021f6"
+        },
+        {
+          "object": "card_face",
+          "name": "Easy Pickings",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Easy Pickings deals 1 damage to each creature your opponents control. (Then exile this card. You may cast the creature later from exile.)",
+          "artist": "Colin Boyer",
+          "artist_id": "9c201dbe-db56-429a-87e6-189ea70c2632"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/5793b8eb-2fc5-454d-8fa2-20346fef167a/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6505a53b-00db-44c4-8eaa-09a1a01451a4&unique=prints",
+      "collector_number": "99",
+      "digital": false,
+      "rarity": "uncommon",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Colin Boyer",
+      "artist_ids": [
+        "9c201dbe-db56-429a-87e6-189ea70c2632"
+      ],
+      "illustration_id": "2dc7b931-b20e-4561-9021-8a6c3cf021f6",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary"
+      ],
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 7920,
+      "preview": {
+        "source": "Variety",
+        "source_uri": "https://variety.com/2026/gaming/news/magic-the-gathering-hobbit-spoiler-card-gloin-1236822100/",
+        "previewed_at": "2026-07-28"
+      },
+      "prices": {
+        "usd": "0.23",
+        "usd_foil": "0.27",
+        "usd_etched": null,
+        "eur": "0.11",
+        "eur_foil": "0.07",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "edhrec": "https://edhrec.com/route/?cc=Gl%C3%B3in+the+Mighty"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F708795%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900326&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154130?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "7c9bfc6e-648a-482b-9483-9e8538726f53",
+      "oracle_id": "6505a53b-00db-44c4-8eaa-09a1a01451a4",
+      "multiverse_ids": [],
+      "resource_id": "99264CF713DEB12F2465FF70BB7A1D16E02B071653573DBE7C8ABD268E34EE60",
+      "mtgo_id": 154508,
+      "tcgplayer_id": 708796,
+      "cardmarket_id": 900360,
+      "name": "Glóin the Mighty // Easy Pickings",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/7c9bfc6e-648a-482b-9483-9e8538726f53",
+      "scryfall_uri": "https://scryfall.com/card/hob/227/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-29T11:29:14Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554",
+        "normal": "https://cards.scryfall.io/normal/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554",
+        "large": "https://cards.scryfall.io/large/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554",
+        "png": "https://cards.scryfall.io/png/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.png?1785324554",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554",
+        "thumb": "https://cards.scryfall.io/thumb/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.webp?1785324554",
+        "grid": "https://cards.scryfall.io/grid/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.webp?1785324554",
+        "display": "https://cards.scryfall.io/display/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.webp?1785324554",
+        "art": "https://cards.scryfall.io/art/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.webp?1785324554",
+        "crop": "https://cards.scryfall.io/crop/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.webp?1785324554",
+        "jpeg": "https://cards.scryfall.io/normal/front/7/c/7c9bfc6e-648a-482b-9483-9e8538726f53.jpg?1785324554"
+      },
+      "mana_cost": "{3}{R} // {2}{R}",
+      "cmc": 4,
+      "type_line": "Legendary Creature — Dwarf Warrior // Sorcery — Adventure",
+      "power": "4",
+      "toughness": "3",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "R"
+      ],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "Glóin the Mighty",
+          "mana_cost": "{3}{R}",
+          "type_line": "Legendary Creature — Dwarf Warrior",
+          "oracle_text": "At the beginning of your first main phase, add {R}{R}.",
+          "power": "4",
+          "toughness": "3",
+          "artist": "Francisco Badilla",
+          "artist_id": "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c",
+          "illustration_id": "952f2b9b-5ec4-4040-9d3a-db9d141483d7"
+        },
+        {
+          "object": "card_face",
+          "name": "Easy Pickings",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Easy Pickings deals 1 damage to each creature your opponents control. (Then exile this card. You may cast the creature later from exile.)",
+          "artist": "Francisco Badilla",
+          "artist_id": "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/7c9bfc6e-648a-482b-9483-9e8538726f53/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6505a53b-00db-44c4-8eaa-09a1a01451a4&unique=prints",
+      "collector_number": "227",
+      "digital": false,
+      "rarity": "uncommon",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Francisco Badilla",
+      "artist_ids": [
+        "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c"
+      ],
+      "illustration_id": "952f2b9b-5ec4-4040-9d3a-db9d141483d7",
+      "border_color": "borderless",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary",
+        "showcase"
+      ],
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 7920,
+      "preview": {
+        "source": "Variety",
+        "source_uri": "https://variety.com/2026/gaming/news/magic-the-gathering-hobbit-spoiler-card-gloin-1236822100/",
+        "previewed_at": "2026-07-28"
+      },
+      "prices": {
+        "usd": "0.26",
+        "usd_foil": "0.31",
+        "usd_etched": null,
+        "eur": "0.21",
+        "eur_foil": "0.26",
+        "tix": "0.14"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "edhrec": "https://edhrec.com/route/?cc=Gl%C3%B3in+the+Mighty"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F708796%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900360&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154508?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "5546390b-3957-4e3b-aa64-85692381f53f",
+      "oracle_id": "6505a53b-00db-44c4-8eaa-09a1a01451a4",
+      "multiverse_ids": [],
+      "tcgplayer_id": 709005,
+      "cardmarket_id": 900361,
+      "name": "Glóin the Mighty // Easy Pickings",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/5546390b-3957-4e3b-aa64-85692381f53f",
+      "scryfall_uri": "https://scryfall.com/card/hob/263/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api",
+      "layout": "adventure",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-29T11:09:40Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380",
+        "normal": "https://cards.scryfall.io/normal/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380",
+        "large": "https://cards.scryfall.io/large/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380",
+        "png": "https://cards.scryfall.io/png/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.png?1785323380",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380",
+        "thumb": "https://cards.scryfall.io/thumb/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.webp?1785323380",
+        "grid": "https://cards.scryfall.io/grid/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.webp?1785323380",
+        "display": "https://cards.scryfall.io/display/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.webp?1785323380",
+        "art": "https://cards.scryfall.io/art/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.webp?1785323380",
+        "crop": "https://cards.scryfall.io/crop/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.webp?1785323380",
+        "jpeg": "https://cards.scryfall.io/normal/front/5/5/5546390b-3957-4e3b-aa64-85692381f53f.jpg?1785323380"
+      },
+      "mana_cost": "{3}{R} // {2}{R}",
+      "cmc": 4,
+      "type_line": "Legendary Creature — Dwarf Warrior // Sorcery — Adventure",
+      "power": "4",
+      "toughness": "3",
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "keywords": [],
+      "produced_mana": [
+        "R"
+      ],
+      "card_faces": [
+        {
+          "object": "card_face",
+          "name": "Glóin the Mighty",
+          "mana_cost": "{3}{R}",
+          "type_line": "Legendary Creature — Dwarf Warrior",
+          "oracle_text": "At the beginning of your first main phase, add {R}{R}.",
+          "power": "4",
+          "toughness": "3",
+          "artist": "Francisco Badilla",
+          "artist_id": "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c",
+          "illustration_id": "952f2b9b-5ec4-4040-9d3a-db9d141483d7"
+        },
+        {
+          "object": "card_face",
+          "name": "Easy Pickings",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery — Adventure",
+          "oracle_text": "Easy Pickings deals 1 damage to each creature your opponents control. (Then exile this card. You may cast the creature later from exile.)",
+          "artist": "Francisco Badilla",
+          "artist_id": "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": false,
+      "finishes": [
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/5546390b-3957-4e3b-aa64-85692381f53f/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6505a53b-00db-44c4-8eaa-09a1a01451a4&unique=prints",
+      "collector_number": "263",
+      "digital": false,
+      "rarity": "uncommon",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Francisco Badilla",
+      "artist_ids": [
+        "d876f06d-e6a6-4b0d-abe3-e7c9900ebf0c"
+      ],
+      "illustration_id": "952f2b9b-5ec4-4040-9d3a-db9d141483d7",
+      "border_color": "borderless",
+      "frame": "2015",
+      "frame_effects": [
+        "legendary",
+        "showcase"
+      ],
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "surgefoil",
+        "universesbeyond"
+      ],
+      "edhrec_rank": 7920,
+      "prices": {
+        "usd": null,
+        "usd_foil": "1.97",
+        "usd_etched": null,
+        "eur": null,
+        "eur_foil": "1.79",
+        "tix": null
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGl%25C3%25B3in%2Bthe%2BMighty%2B%252F%252F%2BEasy%2BPickings",
+        "edhrec": "https://edhrec.com/route/?cc=Gl%C3%B3in+the+Mighty"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F709005%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900361&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gl%C3%B3in+the+Mighty&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

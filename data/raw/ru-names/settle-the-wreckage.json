@@ -1,0 +1,140 @@
+{
+  "object": "list",
+  "total_cards": 1,
+  "has_more": false,
+  "data": [
+    {
+      "object": "card",
+      "id": "98e10042-3a71-4e77-9dd9-b47601ac95b9",
+      "oracle_id": "2a2ea189-b663-4f4a-bb23-ff7a4af25f71",
+      "multiverse_ids": [
+        437279
+      ],
+      "name": "Settle the Wreckage",
+      "printed_name": "Подстроенное Крушение",
+      "lang": "ru",
+      "released_at": "2017-09-29",
+      "uri": "https://api.scryfall.com/cards/98e10042-3a71-4e77-9dd9-b47601ac95b9",
+      "scryfall_uri": "https://scryfall.com/card/xln/34/ru/%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-(settle-the-wreckage)?utm_source=api",
+      "layout": "normal",
+      "highres_image": false,
+      "image_status": "lowres",
+      "image_updated_at": "2026-07-01T20:37:23Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243",
+        "normal": "https://cards.scryfall.io/normal/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243",
+        "large": "https://cards.scryfall.io/large/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243",
+        "png": "https://cards.scryfall.io/png/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.png?1782938243",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243",
+        "thumb": "https://cards.scryfall.io/thumb/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.webp?1782938243",
+        "grid": "https://cards.scryfall.io/grid/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.webp?1782938243",
+        "display": "https://cards.scryfall.io/display/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.webp?1782938243",
+        "art": "https://cards.scryfall.io/art/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.webp?1782938243",
+        "crop": "https://cards.scryfall.io/crop/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.webp?1782938243",
+        "jpeg": "https://cards.scryfall.io/normal/front/9/8/98e10042-3a71-4e77-9dd9-b47601ac95b9.jpg?1782938243"
+      },
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "type_line": "Instant",
+      "printed_type_line": "Мгновенное заклинание",
+      "oracle_text": "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle.",
+      "printed_text": "Изгоните все атакующие существа под контролем целевого игрока. Тот игрок может найти в своей библиотеке такое же количество карт базовых земель, положить те карты на поле битвы повернутыми, затем перетасовать свою библиотеку.",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "arena",
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "fe0dad85-54bc-4151-9200-d68da84dd0f2",
+      "set": "xln",
+      "set_name": "Ixalan",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/fe0dad85-54bc-4151-9200-d68da84dd0f2",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Axln&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/xln?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/98e10042-3a71-4e77-9dd9-b47601ac95b9/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2a2ea189-b663-4f4a-bb23-ff7a4af25f71&unique=prints",
+      "collector_number": "34",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Dimitar Marinski",
+      "artist_ids": [
+        "ad53afd6-d00f-4bc8-98ec-deab3f6aec50"
+      ],
+      "illustration_id": "1b39b6df-9250-4213-a8ae-0db0c8e2c520",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": true,
+      "story_spotlight": false,
+      "edhrec_rank": 2841,
+      "penny_rank": 820,
+      "prices": {
+        "usd": null,
+        "usd_foil": null,
+        "usd_etched": null,
+        "eur": null,
+        "eur_foil": null,
+        "tix": null
+      },
+      "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=437279&printed=true",
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSettle%2Bthe%2BWreckage",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSettle%2Bthe%2BWreckage",
+        "edhrec": "https://edhrec.com/route/?cc=Settle+the+Wreckage"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSettle%2Bthe%2BWreckage%26view%3Dgrid",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Settle+the+Wreckage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Settle+the+Wreckage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

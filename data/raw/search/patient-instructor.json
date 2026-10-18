@@ -1,0 +1,164 @@
+{
+  "query": "!\"Patient Instructor\"",
+  "data": [
+    {
+      "object": "card",
+      "id": "e4800508-8bb9-41bb-8712-b55fba7a80a5",
+      "oracle_id": "bddd7e99-ec74-4ca6-9137-155b85695a95",
+      "multiverse_ids": [],
+      "resource_id": "7DD46DB1674E1CD52727E770536C6572AAA532724DD65F2DC31930F40E9A6753",
+      "mtgo_id": 154262,
+      "arena_id": 103542,
+      "tcgplayer_id": 708809,
+      "cardmarket_id": 900341,
+      "name": "Patient Instructor",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/e4800508-8bb9-41bb-8712-b55fba7a80a5",
+      "scryfall_uri": "https://scryfall.com/card/hob/162/patient-instructor?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-29T11:08:30Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310",
+        "normal": "https://cards.scryfall.io/normal/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310",
+        "large": "https://cards.scryfall.io/large/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310",
+        "png": "https://cards.scryfall.io/png/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.png?1785323310",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310",
+        "thumb": "https://cards.scryfall.io/thumb/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.webp?1785323310",
+        "grid": "https://cards.scryfall.io/grid/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.webp?1785323310",
+        "display": "https://cards.scryfall.io/display/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.webp?1785323310",
+        "art": "https://cards.scryfall.io/art/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.webp?1785323310",
+        "crop": "https://cards.scryfall.io/crop/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.webp?1785323310",
+        "jpeg": "https://cards.scryfall.io/normal/front/e/4/e4800508-8bb9-41bb-8712-b55fba7a80a5.jpg?1785323310"
+      },
+      "mana_cost": "{2}{W/U}",
+      "cmc": 3,
+      "type_line": "Creature — Human Citizen",
+      "oracle_text": "Vigilance\nWhen this creature enters, recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.)",
+      "power": "2",
+      "toughness": "2",
+      "colors": [
+        "U",
+        "W"
+      ],
+      "color_identity": [
+        "U",
+        "W"
+      ],
+      "keywords": [
+        "Vigilance",
+        "Recruit"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "6007af81-4541-4b55-90ea-03d365362ae5",
+          "component": "token",
+          "name": "Human Soldier",
+          "type_line": "Token Creature — Human Soldier",
+          "uri": "https://api.scryfall.com/cards/6007af81-4541-4b55-90ea-03d365362ae5"
+        },
+        {
+          "object": "related_card",
+          "id": "e4800508-8bb9-41bb-8712-b55fba7a80a5",
+          "component": "combo_piece",
+          "name": "Patient Instructor",
+          "type_line": "Creature — Human Citizen",
+          "uri": "https://api.scryfall.com/cards/e4800508-8bb9-41bb-8712-b55fba7a80a5"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e4800508-8bb9-41bb-8712-b55fba7a80a5/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abddd7e99-ec74-4ca6-9137-155b85695a95&unique=prints",
+      "collector_number": "162",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "Lake-town was much diminished from its old grandeur, but still the Long Lake provided for all their needs.",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Joshua Raphael",
+      "artist_ids": [
+        "553b2a73-780f-414b-b2d7-3b7888821082"
+      ],
+      "illustration_id": "7206c94a-be2e-4449-9713-303011164250",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 22000,
+      "prices": {
+        "usd": "0.10",
+        "usd_foil": "0.23",
+        "usd_etched": null,
+        "eur": "0.06",
+        "eur_foil": "0.07",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPatient%2BInstructor",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPatient%2BInstructor",
+        "edhrec": "https://edhrec.com/route/?cc=Patient+Instructor"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F708809%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900341&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154262?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "_comment": "Списки колод. Базовые земли исключены намеренно. Порядок карт — как в исходных списках.",
+  "decks": [
+    {
+      "id": "dwarves",
+      "title": "Колода на гномах",
+      "expectedTotal": 40,
+      "sections": {
+        "creatures": [
+          [1, "Thorin Oakenshield"],
+          [2, "Iron Hills Blacksmith"],
+          [2, "Bifur, Melodic Rider"],
+          [2, "Nori, Teller of Tales"],
+          [1, "Óin the Brave"],
+          [1, "Dáin, Lord of the Iron Hills"],
+          [1, "Dwarven Provisioner"],
+          [3, "Bombur, Gentle Dreamer"],
+          [1, "Ori, Keeper of Songs"],
+          [2, "Iron Hills Stalwart"],
+          [1, "Bofur, Reliable Guardian"],
+          [4, "Velvetwing Butterflies"],
+          [1, "Old Thrush"]
+        ],
+        "spells": [
+          [3, "Dwarven Shortsword"],
+          [1, "Stone by Sunlight"],
+          [1, "Desolation of Smaug"],
+          [2, "Dwarven Mattock"],
+          [1, "Thorin's Last Stand"],
+          [1, "The Black Arrow"],
+          [1, "Ragged Short Spear"],
+          [2, "Vow to Erebor"],
+          [1, "Key to the Side-Door"],
+          [1, "Moment of Glory"],
+          [2, "Smaug's Fury"]
+        ],
+        "lands": [
+          [2, "Iron Hills"]
+        ]
+      }
+    },
+    {
+      "id": "humans",
+      "title": "Колода на людях",
+      "expectedTotal": 44,
+      "sections": {
+        "creatures": [
+          [1, "Bard the Bowman"],
+          [2, "Lake-town Mariners"],
+          [1, "Gandalf, Wandering Wizard"],
+          [2, "Esgaroth Garrison"],
+          [1, "Ravenhill Flock"],
+          [3, "Long Lake Nuisance"],
+          [1, "Lake-town Toymaker"],
+          [1, "Elvenking's Harper"],
+          [2, "Bilbo Baggins, Burglar"],
+          [4, "Patient Instructor"],
+          [2, "Lakeshore Apothecary"],
+          [4, "Master's Councillors"],
+          [3, "Lake-town Lookout"]
+        ],
+        "spells": [
+          [1, "Thorin's Last Stand"],
+          [2, "The Eagles Are Coming!"],
+          [1, "The Mountain-king's Return"],
+          [1, "Settle the Wreckage"],
+          [1, "Magnificent End"],
+          [1, "Confusticate and Bebother"],
+          [3, "Uneasy Partings"],
+          [2, "An Unexpected Party"],
+          [2, "Enchanted River's Grasp"],
+          [2, "Sound the Trumpets"],
+          [1, "Giant's Boulder"]
+        ],
+        "lands": []
+      }
+    },
+    {
+      "id": "goblins",
+      "title": "Колода на гоблинах",
+      "expectedTotal": 46,
+      "sections": {
+        "creatures": [
+          [1, "Smaug the Magnificent"],
+          [1, "Smaug, Wicked Worm"],
+          [1, "Smaug, the Great Calamity"],
+          [1, "Gandalf, Spark Starter"],
+          [2, "Desert Were-Worm"],
+          [1, "Bothersome Noisemaker"],
+          [4, "Goblin-town Flunkies"],
+          [1, "Dwarven Mauler"],
+          [1, "Nighthowl Pursuer"],
+          [1, "Ravening Warg"],
+          [1, "Front Porch Sentries"],
+          [1, "Dori, Bearer of Friends"],
+          [1, "Glóin the Mighty"],
+          [1, "Head of the Hunt"],
+          [1, "Gundabad Opportunist"],
+          [1, "Misty Mountains Raider"],
+          [1, "Dreaded Bat-Cloud"],
+          [1, "The Great Goblin"],
+          [1, "Gollum, Silent Slinker"]
+        ],
+        "spells": [
+          [2, "The Misty Mountains Cold"],
+          [1, "Goblin Plate Mail"],
+          [3, "Tidings of War"],
+          [1, "Rage into the Valley"],
+          [2, "Gathering of Darkness"],
+          [2, "Reverent Howl"],
+          [2, "Bilbo's Deadly Slice"],
+          [1, "Along the Crooked Way"],
+          [2, "Pinecone Strike"],
+          [1, "Gnashing of Teeth"],
+          [2, "Crude Bent Blade"],
+          [1, "Ragged Short Spear"],
+          [1, "Smaug's Fury"],
+          [1, "Down, Down to Goblin-town"]
+        ],
+        "lands": [
+          [1, "Goblin-town"]
+        ]
+      }
+    },
+    {
+      "id": "elves",
+      "title": "Колода на эльфах",
+      "expectedTotal": 44,
+      "sections": {
+        "creatures": [
+          [2, "Thranduil, Sindarin Liege"],
+          [4, "Mirkwood Pathmaker"],
+          [3, "Thranduil's Company"],
+          [1, "Woodland Weavemaster"],
+          [2, "Wood Elves"],
+          [2, "Elvenking's Harper"],
+          [2, "Guardian of the Halls"],
+          [1, "Galion, Elvenking's Butler"],
+          [1, "Silvan Reveler"],
+          [1, "Cantankerous Keepers"],
+          [3, "Boughside Wanderers"],
+          [1, "Bejeweled Warg"],
+          [1, "Wargling"],
+          [1, "Attercop"],
+          [1, "Beorn, Reluctant Host"],
+          [1, "Bilbo Baggins, Burglar"],
+          [2, "Old Fat Spider"],
+          [1, "Gandalf, Wandering Wizard"],
+          [1, "Gigantic Big Bear"]
+        ],
+        "spells": [
+          [2, "Beorn's Hospitality"],
+          [2, "Warg Tactics"],
+          [2, "Plunder the Trollshaws"],
+          [1, "Quarrel"],
+          [1, "Sound the Trumpets"],
+          [1, "Enchanted River's Grasp"],
+          [1, "Troll Negotiations"],
+          [1, "Through the Forest Gate"],
+          [1, "Giant's Boulder"]
+        ],
+        "lands": [
+          [1, "Elvenking's Halls"]
+        ]
+      }
+    }
+  ]
+}

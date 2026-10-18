@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#3f6343"/><stop offset="1" stop-color="#1f3324"/>
+    </radialGradient>
+    <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf3df"/><stop offset="1" stop-color="#e9d9b4"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f1d58a"/><stop offset="1" stop-color="#b8892f"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <!-- Золотая рамка -->
+  <rect x="22" y="22" width="468" height="468" rx="70" fill="none" stroke="url(#gold)" stroke-width="7" opacity=".85"/>
+  <!-- Обложка под страницами -->
+  <path d="M70.0,368.0 Q256.0,330.0 442.0,368.0 L442.0,392.0 Q256.0,356.0 70.0,392.0 Z" fill="#7a2430"/>
+  <!-- Левая и правая страницы -->
+  <path d="M256.0,158.0 Q170.0,118.0 84.0,142.0 L84.0,362.0 Q170.0,340.0 256.0,372.0 Z" fill="url(#page)" stroke="#5a3d22" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M256.0,158.0 Q342.0,118.0 428.0,142.0 L428.0,362.0 Q342.0,340.0 256.0,372.0 Z" fill="url(#page)" stroke="#5a3d22" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Строки текста -->
+  
+  <path d="M112.0,182.0 Q170.0,166.0 228.0,186.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M284.0,186.0 Q342.0,166.0 400.0,182.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M112.0,216.0 Q170.0,200.0 228.0,220.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M284.0,220.0 Q342.0,200.0 400.0,216.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M112.0,250.0 Q170.0,234.0 228.0,254.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M284.0,254.0 Q342.0,234.0 400.0,250.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M112.0,284.0 Q170.0,268.0 228.0,288.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M284.0,288.0 Q342.0,268.0 400.0,284.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M112.0,318.0 Q170.0,302.0 228.0,322.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M284.0,322.0 Q342.0,302.0 400.0,318.0" fill="none" stroke="#8a6a44" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <!-- Закладка -->
+  <path d="M256.0,160.0 L256.0,440.0 L240.0,420.0 L224.0,440.0 L224.0,156.0 Z" fill="#9c2d3a" transform="translate(16,0)"/>
+  <!-- Звезда над книгой -->
+  <path d="M256.0,62.0 L268.0,96.0 L304.0,98.0 L276.0,120.0 L286.0,154.0 L256.0,134.0 L226.0,154.0 L236.0,120.0 L208.0,98.0 L244.0,96.0 Z" fill="url(#gold)"/>
+</svg>

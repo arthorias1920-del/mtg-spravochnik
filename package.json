@@ -1,0 +1,20 @@
+{
+  "name": "mtg-spravochnik",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Справочник по MTG: колоды из сета The Hobbit с русским переводом карт",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-cards.js && node scripts/convert-images.js && node scripts/fetch-symbols.js && node scripts/fetch-art.js",
+    "check": "node scripts/check-translations.js",
+    "build": "node scripts/compute-plates.js && node scripts/build-app-data.js && node scripts/measure-fit.js && node scripts/build-app-data.js && node scripts/build-sw.js",
+    "serve": "node scripts/serve.js",
+    "icons": "node scripts/make-icons.js"
+  },
+  "devDependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/pt-serif": "^5.3.0",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5"
+  }
+}

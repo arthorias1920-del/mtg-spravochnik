@@ -1,0 +1,350 @@
+/* Шрифт заголовков: Cormorant Garamond (с кириллицей), хранится в проекте */
+@font-face { font-family: "Cormorant Garamond"; font-weight: 700; font-style: normal; font-display: swap;
+  src: url("../fonts/cormorant-garamond-cyrillic-700-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 700; font-style: normal; font-display: swap;
+  src: url("../fonts/cormorant-garamond-latin-700-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+2000-206F; }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 600; font-style: normal; font-display: swap;
+  src: url("../fonts/cormorant-garamond-cyrillic-600-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 600; font-style: normal; font-display: swap;
+  src: url("../fonts/cormorant-garamond-latin-600-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+2000-206F; }
+
+/* ---- Палитра «Средиземье» ---- */
+:root {
+  --ivory: #f8f1de;
+  --parchment: #efe2c2;
+  --parchment-dark: #e2cfa4;
+  --ochre: #b9853a;
+  --ink: #3b2a17;
+  --ink-soft: #6b5235;
+  --green: #2f4a33;
+  --green-light: #456b4a;
+  --burgundy: #7a2430;
+  --gold: #b8892f;
+  --gold-light: #e8c97a;
+  --radius: 14px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-height: 100dvh;
+  color: var(--ink);
+  font-family: "PT Serif", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.45;
+  /* Пергамент: несколько мягких пятен поверх тёплого фона — только CSS, без картинок */
+  background-color: var(--parchment);
+  background-image:
+    radial-gradient(ellipse at 15% 10%, rgba(255, 250, 235, .75), transparent 55%),
+    radial-gradient(ellipse at 85% 30%, rgba(214, 186, 132, .35), transparent 50%),
+    radial-gradient(ellipse at 30% 85%, rgba(200, 165, 105, .30), transparent 55%),
+    radial-gradient(ellipse at 90% 95%, rgba(255, 248, 228, .55), transparent 45%),
+    repeating-radial-gradient(circle at 40% 40%, rgba(120, 90, 50, .025) 0 2px, transparent 2px 5px);
+  background-attachment: fixed;
+  overscroll-behavior: none;
+}
+/* Тёмные края страницы, как у старой книги */
+body::before {
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  box-shadow: inset 0 0 90px rgba(110, 72, 30, .28);
+}
+#app { position: relative; z-index: 1; }
+
+button { font: inherit; color: inherit; }
+h1, h2, h3 { font-family: "Cormorant Garamond", "PT Serif", Georgia, serif; font-weight: 700; color: var(--ink); line-height: 1.1; }
+
+/* ---- Общая раскладка экрана ---- */
+.screen {
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding: calc(var(--safe-top) + 8px) calc(var(--safe-right) + 16px) calc(var(--safe-bottom) + 24px) calc(var(--safe-left) + 16px);
+}
+.topbar {
+  display: flex; align-items: center; gap: 10px;
+  min-height: 56px;
+  margin-bottom: 6px;
+}
+.topbar h1 { font-size: 30px; margin: 0; flex: 1; min-width: 0; }
+.topbar .spacer { flex: 1; }
+
+/* Кнопка «Назад» — есть на каждом экране (в режиме «на весь экран» у iPhone нет своей) */
+.btn-back {
+  display: inline-flex; align-items: center; gap: 4px;
+  min-height: 48px; min-width: 48px;
+  padding: 0 14px 0 8px;
+  border: 1.5px solid rgba(59, 42, 23, .35);
+  border-radius: 999px;
+  background: rgba(248, 241, 222, .85);
+  font-size: 18px; font-weight: 700;
+  cursor: pointer;
+  flex: none;
+}
+.btn-back::before {
+  content: ""; width: 12px; height: 12px;
+  border-left: 3px solid currentColor; border-bottom: 3px solid currentColor;
+  transform: rotate(45deg); margin: 0 4px 0 6px;
+}
+.btn-back:active { transform: scale(.97); }
+
+/* Крупные кнопки */
+.btn {
+  display: flex; align-items: center; justify-content: center; gap: 10px;
+  width: 100%;
+  min-height: 56px;
+  padding: 10px 18px;
+  border: 0;
+  border-radius: var(--radius);
+  font-size: 20px; font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform .08s ease, filter .15s ease;
+}
+.btn:active { transform: scale(.98); filter: brightness(.95); }
+.btn-primary {
+  background: linear-gradient(180deg, var(--green-light), var(--green));
+  color: var(--ivory);
+  box-shadow: 0 3px 0 #1c2e20, 0 6px 14px rgba(30, 45, 30, .3);
+  border: 1.5px solid var(--gold);
+}
+.btn-burgundy {
+  background: linear-gradient(180deg, #943241, var(--burgundy));
+  color: var(--ivory);
+  box-shadow: 0 3px 0 #4e141c, 0 6px 14px rgba(80, 20, 28, .3);
+  border: 1.5px solid var(--gold);
+}
+.btn-paper {
+  background: var(--ivory);
+  color: var(--ink);
+  border: 1.5px solid var(--ochre);
+  box-shadow: 0 2px 0 rgba(120, 80, 30, .35);
+}
+.btn-small { width: auto; min-height: 48px; font-size: 18px; padding: 6px 16px; }
+.btn[disabled] { opacity: .45; }
+
+/* ---- Главный экран ---- */
+.home-title {
+  text-align: center;
+  margin: 18px 0 4px;
+  font-size: clamp(34px, 10vw, 48px);
+  letter-spacing: .01em;
+}
+.home-sub {
+  text-align: center; margin: 0 0 18px; color: var(--ink-soft); font-size: 18px;
+}
+.ornament {
+  display: block; width: 180px; height: 14px; margin: 0 auto 18px;
+  background:
+    radial-gradient(circle, var(--gold) 3px, transparent 3.5px) center / 14px 14px no-repeat,
+    linear-gradient(90deg, transparent, var(--gold) 20%, var(--gold) 42%, transparent 46%, transparent 54%, var(--gold) 58%, var(--gold) 80%, transparent) center / 100% 1.5px no-repeat;
+}
+.deck-tiles { display: grid; grid-template-columns: 1fr; gap: 14px; }
+@media (min-width: 560px) { .deck-tiles { grid-template-columns: 1fr 1fr; } }
+
+.deck-tile {
+  position: relative;
+  display: block;
+  min-height: 150px;
+  border-radius: 18px;
+  overflow: hidden;
+  border: 2px solid var(--gold);
+  box-shadow: 0 6px 16px rgba(70, 45, 15, .35);
+  color: var(--ivory);
+  text-decoration: none;
+  background: var(--green) center 30% / cover no-repeat;
+}
+.deck-tile::before { /* затемнение для читаемости */
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(20, 14, 6, .05) 20%, rgba(20, 14, 6, .78) 100%);
+}
+.deck-tile:active { transform: scale(.985); }
+.deck-tile .tile-body {
+  position: relative; z-index: 1;
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 150px; padding: 14px 16px 10px;
+}
+.deck-tile h2 {
+  margin: 0; color: #fff8e6; font-size: 31px;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, .7);
+}
+.tile-meta { display: flex; align-items: center; gap: 10px; margin-top: 4px; font-size: 18px; text-shadow: 0 1px 4px rgba(0,0,0,.8); }
+.mana-row { display: inline-flex; gap: 4px; }
+.mana-row img { width: 26px; height: 26px; filter: drop-shadow(0 1px 2px rgba(0,0,0,.6)); }
+.tile-credit {
+  margin-top: 6px; font-size: 14px; line-height: 1.3; opacity: .92;
+  text-shadow: 0 1px 3px rgba(0,0,0,.9);
+}
+
+.home-buttons { display: grid; gap: 12px; margin-top: 22px; }
+.about-link {
+  display: block; width: fit-content; margin: 26px auto 0;
+  min-height: 44px; padding: 10px 14px;
+  font-size: 17px; color: var(--ink-soft);
+  background: none; border: 0; text-decoration: underline; text-underline-offset: 3px; cursor: pointer;
+}
+
+/* ---- Экран колоды ---- */
+.deck-screen { padding-bottom: calc(var(--safe-bottom) + 100px); }
+.section-title {
+  display: flex; align-items: center; gap: 10px;
+  font-size: 27px; margin: 18px 0 10px;
+}
+.section-title::after {
+  content: ""; flex: 1; height: 1.5px;
+  background: linear-gradient(90deg, var(--ochre), transparent);
+}
+.section-title .count { font-family: "PT Serif", serif; font-size: 17px; font-weight: 400; color: var(--ink-soft); }
+.card-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 10px; }
+@media (min-width: 640px) { .card-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.thumb {
+  position: relative; display: flex; flex-direction: column; justify-content: flex-start;
+  align-self: start; width: 100%; padding: 0; border: 0; background: none;
+  text-align: center; cursor: pointer; min-height: 44px;
+}
+.mtg-card { text-align: left; } /* кнопка-миниатюра не должна центрировать текст карты */
+.thumb .mtg-card { box-shadow: 0 3px 8px rgba(60, 40, 15, .35); }
+.thumb:active .mtg-card { transform: scale(.97); }
+.thumb .copies {
+  position: absolute; top: -6px; right: -4px; z-index: 2;
+  min-width: 36px; height: 30px; padding: 0 7px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 999px;
+  background: var(--burgundy); color: #fff8e6;
+  border: 1.5px solid var(--gold-light);
+  font-size: 17px; font-weight: 700; line-height: 1;
+  box-shadow: 0 2px 4px rgba(0,0,0,.35);
+}
+.thumb .thumb-name {
+  display: block; margin-top: 6px;
+  font-size: 17px; line-height: 1.2; font-weight: 700;
+  overflow-wrap: break-word; /* без автопереносов: название читается целыми словами */
+}
+
+/* Панель «Рука: N» внизу экрана колоды */
+.hand-bar {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
+  padding: 10px calc(var(--safe-right) + 16px) calc(var(--safe-bottom) + 10px) calc(var(--safe-left) + 16px);
+  background: linear-gradient(180deg, rgba(239, 226, 194, 0), rgba(239, 226, 194, .96) 28%);
+}
+.hand-bar .btn { max-width: 560px; margin: 0 auto; }
+.hand-bar .hand-count {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 34px; height: 34px; padding: 0 8px; border-radius: 999px;
+  background: var(--ivory); color: var(--green); font-size: 19px;
+}
+
+/* ---- Просмотр карты на весь экран ---- */
+.viewer {
+  position: fixed; inset: 0;
+  display: flex; flex-direction: column;
+  padding: calc(var(--safe-top) + 6px) calc(var(--safe-right) + 12px) calc(var(--safe-bottom) + 12px) calc(var(--safe-left) + 12px);
+  background:
+    radial-gradient(ellipse at 50% 35%, rgba(70, 52, 30, .92), rgba(28, 20, 10, .98) 75%),
+    #22180c;
+  color: var(--ivory);
+}
+.viewer .topbar h1 { color: var(--ivory); font-size: 24px; }
+.viewer .btn-back { background: rgba(248, 241, 222, .12); color: var(--ivory); border-color: rgba(232, 201, 122, .55); }
+.viewer .pos { font-size: 17px; opacity: .85; white-space: nowrap; }
+.stage {
+  position: relative; flex: 1; min-height: 0;
+  display: flex; align-items: center; justify-content: center;
+  overflow: hidden;
+  touch-action: none;
+}
+.stage .slide {
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+}
+.stage .zoom-target {
+  transform-origin: 0 0;
+}
+.stage .mtg-card { box-shadow: 0 10px 30px rgba(0, 0, 0, .55); }
+.viewer .card-name {
+  text-align: center; margin: 8px 0 10px; font-size: 18px; min-height: 26px;
+}
+.viewer .actions { display: flex; gap: 10px; max-width: 560px; width: 100%; margin: 0 auto; }
+.viewer .actions .btn { flex: 1; }
+.viewer .actions .btn-newgame { flex: 0 0 auto; width: auto; font-size: 18px; }
+.viewer .in-hand { font-weight: 400; font-size: 17px; opacity: .9; }
+.zoom-hint { text-align: center; font-size: 15px; opacity: .65; margin: -4px 0 6px; }
+
+/* Пустая рука */
+.empty {
+  margin: auto; max-width: 340px; text-align: center; font-size: 19px; color: var(--ivory); opacity: .92;
+}
+.empty .big { font-family: "Cormorant Garamond", serif; font-size: 30px; font-weight: 700; display: block; margin-bottom: 8px; }
+
+/* ---- Словарик и памятка ---- */
+.paper {
+  background: rgba(248, 241, 222, .82);
+  border: 1.5px solid rgba(185, 133, 58, .55);
+  border-radius: var(--radius);
+  box-shadow: 0 3px 10px rgba(90, 60, 20, .15);
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+.term h3 { margin: 0; font-size: 25px; color: var(--green); }
+.term .en { font-size: 17px; color: var(--ink-soft); font-style: italic; margin-left: 4px; }
+.term p { margin: 6px 0 0; }
+.term .example { font-size: 17px; color: var(--ink-soft); }
+.term .example b { color: var(--burgundy); }
+.term .sym { height: 1em; vertical-align: -0.15em; }
+
+.phase { position: relative; }
+.phase h2 { font-size: 27px; margin: 0 0 6px; color: var(--burgundy); display: flex; gap: 10px; align-items: baseline; }
+.phase .num {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 34px; height: 34px; border-radius: 50%;
+  background: var(--green); color: var(--gold-light);
+  font-family: "PT Serif", serif; font-size: 18px; transform: translateY(-2px);
+}
+.phase ol { margin: 4px 0 0; padding-left: 22px; }
+.phase li { margin: 6px 0; }
+.phase li b { color: var(--green); }
+.tip { border-left: 5px solid var(--gold); }
+
+.about p { margin: 0 0 12px; }
+.about p:last-child { margin-bottom: 0; }
+
+/* ---- Окно подтверждения ---- */
+.modal-back {
+  position: fixed; inset: 0; z-index: 50;
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+  background: rgba(20, 14, 6, .6);
+}
+.modal {
+  width: 100%; max-width: 360px;
+  background: var(--ivory); color: var(--ink);
+  border: 2px solid var(--gold); border-radius: 18px;
+  padding: 20px; text-align: center;
+  box-shadow: 0 16px 40px rgba(0,0,0,.45);
+}
+.modal h2 { margin: 0 0 8px; font-size: 30px; }
+.modal p { margin: 0 0 16px; }
+.modal .row { display: grid; gap: 10px; }
+
+/* ---- Всплывающее сообщение ---- */
+#toast {
+  position: fixed; left: 50%; bottom: calc(var(--safe-bottom) + 96px); z-index: 60;
+  transform: translate(-50%, 20px);
+  max-width: calc(100% - 32px);
+  padding: 12px 18px; border-radius: 999px;
+  background: rgba(30, 22, 10, .92); color: var(--ivory);
+  border: 1.5px solid var(--gold);
+  font-size: 18px; text-align: center;
+  opacity: 0; pointer-events: none;
+  transition: opacity .2s ease, transform .2s ease;
+}
+#toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

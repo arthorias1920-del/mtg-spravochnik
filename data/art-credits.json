@@ -1,0 +1,18 @@
+{
+ "dwarves": {
+  "card": "thorin-oakenshield",
+  "artist": "Francisco Miyara"
+ },
+ "humans": {
+  "card": "bard-the-bowman",
+  "artist": "Miklós Ligeti"
+ },
+ "goblins": {
+  "card": "the-great-goblin",
+  "artist": "Miklós Ligeti"
+ },
+ "elves": {
+  "card": "thranduil-sindarin-liege",
+  "artist": "Justyna Dura"
+ }
+}

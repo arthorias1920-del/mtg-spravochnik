@@ -1,0 +1,273 @@
+{
+  "query": "!\"Thorin's Last Stand\"",
+  "data": [
+    {
+      "object": "card",
+      "id": "127367b6-9cfe-4516-9bfd-5b951468a25c",
+      "oracle_id": "3c4da169-1e50-4790-abdc-214e7b8a2ad5",
+      "multiverse_ids": [],
+      "resource_id": "AA327A3ED9811AB012BED12C83116C1DA9263677AD6E8B64776E07E824FA98B2",
+      "mtgo_id": 153970,
+      "arena_id": 103396,
+      "tcgplayer_id": 709464,
+      "cardmarket_id": 900601,
+      "name": "Thorin's Last Stand",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/127367b6-9cfe-4516-9bfd-5b951468a25c",
+      "scryfall_uri": "https://scryfall.com/card/hob/28/thorins-last-stand?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-31T11:23:40Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020",
+        "normal": "https://cards.scryfall.io/normal/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020",
+        "large": "https://cards.scryfall.io/large/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020",
+        "png": "https://cards.scryfall.io/png/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.png?1785497020",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020",
+        "thumb": "https://cards.scryfall.io/thumb/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.webp?1785497020",
+        "grid": "https://cards.scryfall.io/grid/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.webp?1785497020",
+        "display": "https://cards.scryfall.io/display/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.webp?1785497020",
+        "art": "https://cards.scryfall.io/art/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.webp?1785497020",
+        "crop": "https://cards.scryfall.io/crop/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.webp?1785497020",
+        "jpeg": "https://cards.scryfall.io/normal/front/1/2/127367b6-9cfe-4516-9bfd-5b951468a25c.jpg?1785497020"
+      },
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "type_line": "Instant",
+      "oracle_text": "Choose one —\n• Creatures you control get +2/+1 until end of turn.\n• Destroy target artifact or enchantment. You gain 2 life.",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/127367b6-9cfe-4516-9bfd-5b951468a25c/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c4da169-1e50-4790-abdc-214e7b8a2ad5&unique=prints",
+      "collector_number": "28",
+      "digital": false,
+      "rarity": "common",
+      "flavor_text": "\"I go now to the halls of waiting to sit beside my fathers, until the world is renewed.\"",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "John Di Giovanni",
+      "artist_ids": [
+        "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+      ],
+      "illustration_id": "c7d3ae20-f7c7-450e-8e5f-96c1cba6bc26",
+      "border_color": "black",
+      "frame": "2015",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 14642,
+      "prices": {
+        "usd": "0.10",
+        "usd_foil": "0.17",
+        "usd_etched": null,
+        "eur": "0.04",
+        "eur_foil": "0.08",
+        "tix": "0.01"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThorin%2527s%2BLast%2BStand",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThorin%2527s%2BLast%2BStand",
+        "edhrec": "https://edhrec.com/route/?cc=Thorin%27s+Last+Stand"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F709464%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900601&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/153970?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "089e8e4b-c367-4d86-a69a-951f7d779aaf",
+      "oracle_id": "3c4da169-1e50-4790-abdc-214e7b8a2ad5",
+      "multiverse_ids": [],
+      "resource_id": "D1C588AA9283CB6F3CD9A0AF7B37F8671E0CA90240E2EC02D46EBF8C0FC09A20",
+      "mtgo_id": 154456,
+      "tcgplayer_id": 709467,
+      "cardmarket_id": 900656,
+      "name": "Thorin's Last Stand",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/089e8e4b-c367-4d86-a69a-951f7d779aaf",
+      "scryfall_uri": "https://scryfall.com/card/hob/209/thorins-last-stand?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-31T11:26:50Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210",
+        "normal": "https://cards.scryfall.io/normal/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210",
+        "large": "https://cards.scryfall.io/large/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210",
+        "png": "https://cards.scryfall.io/png/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.png?1785497210",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210",
+        "thumb": "https://cards.scryfall.io/thumb/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.webp?1785497210",
+        "grid": "https://cards.scryfall.io/grid/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.webp?1785497210",
+        "display": "https://cards.scryfall.io/display/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.webp?1785497210",
+        "art": "https://cards.scryfall.io/art/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.webp?1785497210",
+        "crop": "https://cards.scryfall.io/crop/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.webp?1785497210",
+        "jpeg": "https://cards.scryfall.io/normal/front/0/8/089e8e4b-c367-4d86-a69a-951f7d779aaf.jpg?1785497210"
+      },
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "type_line": "Instant",
+      "oracle_text": "Choose one —\n• Creatures you control get +2/+1 until end of turn.\n• Destroy target artifact or enchantment. You gain 2 life.",
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "keywords": [],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "not_legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/089e8e4b-c367-4d86-a69a-951f7d779aaf/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c4da169-1e50-4790-abdc-214e7b8a2ad5&unique=prints",
+      "collector_number": "209",
+      "digital": false,
+      "rarity": "common",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "Denman Rooke",
+      "artist_ids": [
+        "5eedbc4b-34a3-4ca5-b3f5-9ac2f6b6adf7"
+      ],
+      "illustration_id": "7bf77e32-b0fc-4aeb-af05-66b977b82ef9",
+      "border_color": "borderless",
+      "frame": "2015",
+      "frame_effects": [
+        "inverted"
+      ],
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 14642,
+      "prices": {
+        "usd": "0.17",
+        "usd_foil": "0.27",
+        "usd_etched": null,
+        "eur": "0.11",
+        "eur_foil": "0.24",
+        "tix": "0.03"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThorin%2527s%2BLast%2BStand",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThorin%2527s%2BLast%2BStand",
+        "edhrec": "https://edhrec.com/route/?cc=Thorin%27s+Last+Stand"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F709467%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900656&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154456?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

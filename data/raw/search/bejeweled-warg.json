@@ -1,0 +1,339 @@
+{
+  "query": "!\"Bejeweled Warg\"",
+  "data": [
+    {
+      "object": "card",
+      "id": "e95eba5c-e0d6-46b4-a0be-8e373b2185ea",
+      "oracle_id": "051ff7e0-dd00-4467-8796-a5d1c21934ed",
+      "multiverse_ids": [],
+      "resource_id": "BFA2911D4FA54897E884D009C31197CCCE5BA47220E6DAE29844974C3D62A82D",
+      "mtgo_id": 154170,
+      "arena_id": 103496,
+      "tcgplayer_id": 709549,
+      "cardmarket_id": 900639,
+      "name": "Bejeweled Warg",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/e95eba5c-e0d6-46b4-a0be-8e373b2185ea",
+      "scryfall_uri": "https://scryfall.com/card/hob/117/bejeweled-warg?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-07-31T11:12:10Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+        "normal": "https://cards.scryfall.io/normal/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+        "large": "https://cards.scryfall.io/large/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+        "png": "https://cards.scryfall.io/png/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.png?1785496330",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330",
+        "thumb": "https://cards.scryfall.io/thumb/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.webp?1785496330",
+        "grid": "https://cards.scryfall.io/grid/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.webp?1785496330",
+        "display": "https://cards.scryfall.io/display/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.webp?1785496330",
+        "art": "https://cards.scryfall.io/art/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.webp?1785496330",
+        "crop": "https://cards.scryfall.io/crop/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.webp?1785496330",
+        "jpeg": "https://cards.scryfall.io/normal/front/e/9/e95eba5c-e0d6-46b4-a0be-8e373b2185ea.jpg?1785496330"
+      },
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "type_line": "Creature — Wolf",
+      "oracle_text": "Trample\nWhenever this creature deals combat damage to a player, choose one —\n• Put a +1/+1 counter on target Wolf you control.\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "power": "3",
+      "toughness": "2",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Treasure",
+        "Trample"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "2b689d91-1ac0-474b-ae58-2c320e1af5e4",
+          "component": "combo_piece",
+          "name": "Bejeweled Warg",
+          "type_line": "Creature — Wolf",
+          "uri": "https://api.scryfall.com/cards/2b689d91-1ac0-474b-ae58-2c320e1af5e4"
+        },
+        {
+          "object": "related_card",
+          "id": "d1892b78-7663-4cbd-a732-9a4b0b18d4c8",
+          "component": "token",
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "uri": "https://api.scryfall.com/cards/d1892b78-7663-4cbd-a732-9a4b0b18d4c8"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo",
+        "arena"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/e95eba5c-e0d6-46b4-a0be-8e373b2185ea/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A051ff7e0-dd00-4467-8796-a5d1c21934ed&unique=prints",
+      "collector_number": "117",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "John Di Giovanni",
+      "artist_ids": [
+        "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+      ],
+      "illustration_id": "b0b59f67-3275-45b2-b629-8079b32b4e1c",
+      "border_color": "black",
+      "frame": "2015",
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 13567,
+      "preview": {
+        "source": "Zoe Marlett",
+        "source_uri": "https://www.instagram.com/reels/DbY6uaRhdUe/",
+        "previewed_at": "2026-07-30"
+      },
+      "prices": {
+        "usd": "0.32",
+        "usd_foil": "0.34",
+        "usd_etched": null,
+        "eur": "0.35",
+        "eur_foil": "0.44",
+        "tix": "0.02"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBejeweled%2BWarg",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBejeweled%2BWarg",
+        "edhrec": "https://edhrec.com/route/?cc=Bejeweled+Warg"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F709549%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900639&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154170?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    },
+    {
+      "object": "card",
+      "id": "2b689d91-1ac0-474b-ae58-2c320e1af5e4",
+      "oracle_id": "051ff7e0-dd00-4467-8796-a5d1c21934ed",
+      "multiverse_ids": [],
+      "resource_id": "81B19CABCBB7A395DC10AB06C97024BC9479D728DCB906C05DD5FCF079A75538",
+      "mtgo_id": 154418,
+      "tcgplayer_id": 709648,
+      "cardmarket_id": 900669,
+      "name": "Bejeweled Warg",
+      "lang": "en",
+      "released_at": "2026-08-14",
+      "uri": "https://api.scryfall.com/cards/2b689d91-1ac0-474b-ae58-2c320e1af5e4",
+      "scryfall_uri": "https://scryfall.com/card/hob/305/bejeweled-warg?utm_source=api",
+      "layout": "normal",
+      "highres_image": true,
+      "image_status": "highres_scan",
+      "image_updated_at": "2026-08-20T05:43:28Z",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608",
+        "normal": "https://cards.scryfall.io/normal/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608",
+        "large": "https://cards.scryfall.io/large/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608",
+        "png": "https://cards.scryfall.io/png/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.png?1787204608",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608",
+        "thumb": "https://cards.scryfall.io/thumb/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.webp?1787204608",
+        "grid": "https://cards.scryfall.io/grid/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.webp?1787204608",
+        "display": "https://cards.scryfall.io/display/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.webp?1787204608",
+        "art": "https://cards.scryfall.io/art/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.webp?1787204608",
+        "crop": "https://cards.scryfall.io/crop/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.webp?1787204608",
+        "jpeg": "https://cards.scryfall.io/normal/front/2/b/2b689d91-1ac0-474b-ae58-2c320e1af5e4.jpg?1787204608"
+      },
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "type_line": "Creature — Wolf",
+      "oracle_text": "Trample\nWhenever this creature deals combat damage to a player, choose one —\n• Put a +1/+1 counter on target Wolf you control.\n• Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+      "power": "3",
+      "toughness": "2",
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "keywords": [
+        "Treasure",
+        "Trample"
+      ],
+      "produced_mana": [
+        "B",
+        "G",
+        "R",
+        "U",
+        "W"
+      ],
+      "all_parts": [
+        {
+          "object": "related_card",
+          "id": "2b689d91-1ac0-474b-ae58-2c320e1af5e4",
+          "component": "combo_piece",
+          "name": "Bejeweled Warg",
+          "type_line": "Creature — Wolf",
+          "uri": "https://api.scryfall.com/cards/2b689d91-1ac0-474b-ae58-2c320e1af5e4"
+        },
+        {
+          "object": "related_card",
+          "id": "d1892b78-7663-4cbd-a732-9a4b0b18d4c8",
+          "component": "token",
+          "name": "Treasure",
+          "type_line": "Token Artifact — Treasure",
+          "uri": "https://api.scryfall.com/cards/d1892b78-7663-4cbd-a732-9a4b0b18d4c8"
+        }
+      ],
+      "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "timeless": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "not_legal",
+        "vintage": "legal",
+        "penny": "not_legal",
+        "commander": "legal",
+        "oathbreaker": "legal",
+        "standardbrawl": "legal",
+        "brawl": "legal",
+        "competitivebrawl": "legal",
+        "alchemy": "not_legal",
+        "paupercommander": "not_legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal",
+        "predh": "not_legal",
+        "tlr": "legal"
+      },
+      "games": [
+        "paper",
+        "mtgo"
+      ],
+      "reserved": false,
+      "game_changer": false,
+      "foil": true,
+      "nonfoil": true,
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "oversized": false,
+      "promo": false,
+      "reprint": false,
+      "variation": false,
+      "set_id": "59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set": "hob",
+      "set_name": "The Hobbit",
+      "set_type": "expansion",
+      "set_uri": "https://api.scryfall.com/sets/59218c23-cb7a-4fde-9cff-3f2f71af1308",
+      "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahob&unique=prints",
+      "scryfall_set_uri": "https://scryfall.com/sets/hob?utm_source=api",
+      "rulings_uri": "https://api.scryfall.com/cards/2b689d91-1ac0-474b-ae58-2c320e1af5e4/rulings",
+      "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A051ff7e0-dd00-4467-8796-a5d1c21934ed&unique=prints",
+      "collector_number": "305",
+      "digital": false,
+      "rarity": "rare",
+      "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+      "artist": "John Di Giovanni",
+      "artist_ids": [
+        "dc7630d7-41e3-4fef-8630-058d1ba39d37"
+      ],
+      "illustration_id": "b0b59f67-3275-45b2-b629-8079b32b4e1c",
+      "border_color": "black",
+      "frame": "2015",
+      "frame_effects": [
+        "extendedart"
+      ],
+      "security_stamp": "oval",
+      "full_art": false,
+      "textless": false,
+      "booster": false,
+      "story_spotlight": false,
+      "promo_types": [
+        "universesbeyond"
+      ],
+      "edhrec_rank": 13567,
+      "prices": {
+        "usd": "1.02",
+        "usd_foil": "1.00",
+        "usd_etched": null,
+        "eur": "0.65",
+        "eur_foil": "1.19",
+        "tix": "0.07"
+      },
+      "related_uris": {
+        "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBejeweled%2BWarg",
+        "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBejeweled%2BWarg",
+        "edhrec": "https://edhrec.com/route/?cc=Bejeweled+Warg"
+      },
+      "purchase_uris": {
+        "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F709648%3Fpage%3D1",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=900669&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/154418?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+      }
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+ "thorin-oakenshield": {
+  "title": 4.9,
+  "type": 3.53,
+  "text": 3.49
+ },
+ "iron-hills-blacksmith": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "bifur-melodic-rider": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.08
+ },
+ "nori-teller-of-tales": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.67
+ },
+ "oin-the-brave": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.16
+ },
+ "dain-lord-of-the-iron-hills": {
+  "title": 4.22,
+  "type": 3.53,
+  "text": 3.44
+ },
+ "dwarven-provisioner": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "bombur-gentle-dreamer": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.3
+ },
+ "ori-keeper-of-songs": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.3
+ },
+ "iron-hills-stalwart": {
+  "title": 4.15,
+  "type": 4.1,
+  "text": 3.4
+ },
+ "bofur-reliable-guardian": {
+  "title": 4.9,
+  "type": 3.63,
+  "advTitle": 4.06,
+  "advType:wrap": true,
+  "advType": 2.93,
+  "advText": 2.76,
+  "text": 2.76
+ },
+ "velvetwing-butterflies": {
+  "title": 4.9,
+  "type": 4.1,
+  "advTitle": 4.08,
+  "advType:wrap": true,
+  "advType": 2.93,
+  "advText": 3.38,
+  "text": 3.38
+ },
+ "old-thrush": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.16
+ },
+ "dwarven-shortsword": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.24
+ },
+ "stone-by-sunlight": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.3
+ },
+ "desolation-of-smaug": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.45
+ },
+ "dwarven-mattock": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.16
+ },
+ "thorin-s-last-stand": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.67
+ },
+ "the-black-arrow": {
+  "title": 4.9,
+  "type": 3.9,
+  "text": 3.21
+ },
+ "ragged-short-spear": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.24
+ },
+ "vow-to-erebor": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.7
+ },
+ "key-to-the-side-door": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.59
+ },
+ "moment-of-glory": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.32
+ },
+ "smaug-s-fury": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "iron-hills": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.56
+ },
+ "bard-the-bowman": {
+  "title": 4.9,
+  "type": 3.63,
+  "text": 3.28
+ },
+ "lake-town-mariners": {
+  "title": 4.66,
+  "type": 4.1,
+  "advTitle": 3.26,
+  "advType:wrap": true,
+  "advType": 2.93,
+  "advText": 3.17,
+  "text": 3.17
+ },
+ "gandalf-wandering-wizard": {
+  "title": 3.66,
+  "type": 3.55,
+  "text": 3.26
+ },
+ "esgaroth-garrison": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.13
+ },
+ "ravenhill-flock": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.48
+ },
+ "long-lake-nuisance": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "lake-town-toymaker": {
+  "title": 4.8,
+  "type": 4.1,
+  "text": 3.83
+ },
+ "elvenking-s-harper": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.89
+ },
+ "bilbo-baggins-burglar": {
+  "title": 4.9,
+  "type": 3.3,
+  "advTitle": 4.63,
+  "advType": 2.77,
+  "advText": 3.26,
+  "text": 3.26
+ },
+ "patient-instructor": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.21
+ },
+ "lakeshore-apothecary": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "master-s-councillors": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.84
+ },
+ "lake-town-lookout": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.44
+ },
+ "the-eagles-are-coming": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.03
+ },
+ "the-mountain-king-s-return": {
+  "title": 4.41,
+  "type": 4.1,
+  "reminder": 3.13,
+  "ch0": 3.13,
+  "ch1": 3.13,
+  "ch2": 3.13
+ },
+ "settle-the-wreckage": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.46
+ },
+ "magnificent-end": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.16
+ },
+ "confusticate-and-bebother": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.88
+ },
+ "uneasy-partings": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.35
+ },
+ "an-unexpected-party": {
+  "title": 4.9,
+  "type": 4.1,
+  "advTitle": 4.6,
+  "advType": 2.77,
+  "advText": 3.38,
+  "text": 3.38
+ },
+ "enchanted-river-s-grasp": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.28
+ },
+ "sound-the-trumpets": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.42
+ },
+ "giant-s-boulder": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.49
+ },
+ "smaug-the-magnificent": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.16
+ },
+ "smaug-wicked-worm": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.54
+ },
+ "smaug-the-great-calamity": {
+  "title": 4.9,
+  "type": 4.1,
+  "advTitle": 4.02,
+  "advType": 2.77,
+  "advText": 3.16,
+  "text": 3.16
+ },
+ "gandalf-spark-starter": {
+  "title": 4.27,
+  "type": 3.55,
+  "text": 3.65
+ },
+ "desert-were-worm": {
+  "title": 4.46,
+  "type": 4.1,
+  "text": 2.86
+ },
+ "bothersome-noisemaker": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.24
+ },
+ "goblin-town-flunkies": {
+  "title": 4.2,
+  "type": 4.1,
+  "text": 2.99
+ },
+ "dwarven-mauler": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "nighthowl-pursuer": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "ravening-warg": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.48
+ },
+ "front-porch-sentries": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "dori-bearer-of-friends": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.28
+ },
+ "gloin-the-mighty": {
+  "title": 4.9,
+  "type": 4.1,
+  "advTitle": 3.8,
+  "advType": 2.77,
+  "advText": 2.9,
+  "text": 2.9
+ },
+ "head-of-the-hunt": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "gundabad-opportunist": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "misty-mountains-raider": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.36
+ },
+ "dreaded-bat-cloud": {
+  "title": 4.73,
+  "type": 4.1,
+  "text": 3.93
+ },
+ "the-great-goblin": {
+  "title": 4.9,
+  "type": 3.36,
+  "text": 3.56
+ },
+ "gollum-silent-slinker": {
+  "title": 4.78,
+  "type": 3.53,
+  "advTitle": 3.98,
+  "advType": 2.77,
+  "advText": 2.85,
+  "text": 2.85
+ },
+ "the-misty-mountains-cold": {
+  "title": 4.9,
+  "type": 4.1,
+  "reminder": 3.52,
+  "ch0": 3.52
+ },
+ "goblin-plate-mail": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.16
+ },
+ "tidings-of-war": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.11
+ },
+ "rage-into-the-valley": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.55
+ },
+ "gathering-of-darkness": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.24
+ },
+ "reverent-howl": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.63
+ },
+ "bilbo-s-deadly-slice": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "along-the-crooked-way": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.65
+ },
+ "pinecone-strike": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.63
+ },
+ "gnashing-of-teeth": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.63
+ },
+ "crude-bent-blade": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.29
+ },
+ "down-down-to-goblin-town": {
+  "title": 4.87,
+  "type": 4.1,
+  "reminder": 2.76,
+  "ch0": 2.76,
+  "ch1": 2.76,
+  "ch2": 2.76
+ },
+ "goblin-town": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.59
+ },
+ "thranduil-sindarin-liege": {
+  "title": 4.11,
+  "type": 3.53,
+  "advTitle": 3.73,
+  "advType": 2.77,
+  "advText": 2.78,
+  "text": 2.78
+ },
+ "mirkwood-pathmaker": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.74
+ },
+ "thranduil-s-company": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 2.93
+ },
+ "woodland-weavemaster": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.44
+ },
+ "wood-elves": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.8
+ },
+ "guardian-of-the-halls": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.67
+ },
+ "galion-elvenking-s-butler": {
+  "title": 3.79,
+  "type": 3.73,
+  "text": 3.26
+ },
+ "silvan-reveler": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.5
+ },
+ "cantankerous-keepers": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.26
+ },
+ "boughside-wanderers": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.17
+ },
+ "bejeweled-warg": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.32
+ },
+ "wargling": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.62
+ },
+ "attercop": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.67
+ },
+ "beorn-reluctant-host": {
+  "title": 4.9,
+  "type": 2.83,
+  "advTitle": 4.85,
+  "advType": 2.77,
+  "advText": 3.16,
+  "text": 3.16
+ },
+ "old-fat-spider": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.07
+ },
+ "gigantic-big-bear": {
+  "title": 4.53,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "beorn-s-hospitality": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.6
+ },
+ "warg-tactics": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.89
+ },
+ "plunder-the-trollshaws": {
+  "title": 4.59,
+  "type": 4.1,
+  "text": 3.7
+ },
+ "quarrel": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 4.2
+ },
+ "troll-negotiations": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.81
+ },
+ "through-the-forest-gate": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.47
+ },
+ "elvenking-s-halls": {
+  "title": 4.9,
+  "type": 4.1,
+  "text": 3.57
+ }
+}

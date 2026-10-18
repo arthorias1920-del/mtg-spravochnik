@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+# Исходные PNG от Scryfall — большие, в репозиторий не кладём (в приложении лежат WebP)
+data/images-original/
+screenshots/
+# Сырые ответы Scryfall из поиска русских терминов (~100 МБ); итог — data/ru-term-evidence.json
+data/raw/ru-terms/
