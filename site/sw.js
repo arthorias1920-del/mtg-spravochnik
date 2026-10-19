@@ -1,5 +1,5 @@
 // Создано скриптом scripts/build-sw.js — не редактируйте вручную.
-const VERSION = '4016c49f2a';
+const VERSION = '5d397484ff';
 const CACHE = 'mtg-spravochnik-' + VERSION;
 const FILES = [
  "./",
@@ -33,6 +33,7 @@ const FILES = [
  "./img/cards/along-the-crooked-way.webp",
  "./img/cards/an-unexpected-party.webp",
  "./img/cards/attercop.webp",
+ "./img/cards/azog-moria-s-ruin.webp",
  "./img/cards/bard-the-bowman.webp",
  "./img/cards/bejeweled-warg.webp",
  "./img/cards/beorn-reluctant-host.webp",

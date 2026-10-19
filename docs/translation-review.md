@@ -38,6 +38,7 @@
 | Front Porch Sentries | Часовые у Входа | Front Porch — вход в пещеры гоблинов |
 | Gundabad Opportunist | Гундабадский Хапуга | Opportunist — тот, кто хватает, что плохо лежит |
 | Gollum, Silent Slinker | Голлум, Бесшумный Проныра | |
+| Azog, Moria's Ruin | Азог, Погибель Мории | Ruin — «гибель, разорение»; добавлен позже (колода на гоблинах) |
 | The Misty Mountains Cold | За Мглистые Холодные Горы | Из песни гномов «Far over the Misty Mountains cold» |
 | Rage into the Valley | Ворваться в Долину | |
 | Ragged Short Spear | Зазубренное Короткое Копьё | |

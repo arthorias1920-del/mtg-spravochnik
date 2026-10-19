@@ -56,7 +56,7 @@ check(await page.locator('.deck-tile').count() === 4, 'четыре плитки
 const tiles = await page.locator('.deck-tile h2').allTextContents();
 check(tiles.join('|') === 'Колода на гномах|Колода на людях|Колода на гоблинах|Колода на эльфах', 'названия плиток');
 const counts = await page.locator('.tile-meta span:last-child').allTextContents();
-check(counts.join('|') === '40 карт|44 карты|46 карт|44 карты', 'количество карт: ' + counts.join(', '));
+check(counts.join('|') === '40 карт|44 карты|47 карт|44 карты', 'количество карт: ' + counts.join(', '));
 await shot('01-home');
 
 console.log('Экран колоды');

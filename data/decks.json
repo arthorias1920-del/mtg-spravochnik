@@ -78,7 +78,7 @@
     {
       "id": "goblins",
       "title": "Колода на гоблинах",
-      "expectedTotal": 46,
+      "expectedTotal": 47,
       "sections": {
         "creatures": [
           [1, "Smaug the Magnificent"],
@@ -99,7 +99,8 @@
           [1, "Misty Mountains Raider"],
           [1, "Dreaded Bat-Cloud"],
           [1, "The Great Goblin"],
-          [1, "Gollum, Silent Slinker"]
+          [1, "Gollum, Silent Slinker"],
+          [1, "Azog, Moria's Ruin"]
         ],
         "spells": [
           [2, "The Misty Mountains Cold"],
